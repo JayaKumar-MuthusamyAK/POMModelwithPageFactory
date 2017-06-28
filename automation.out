@@ -1,0 +1,73 @@
+2017-06-26 23:39:19 INFO  TestBase:36 - ----------------------Starting Verifing the Login page----------------------------
+2017-06-27 09:42:28 INFO  TestBase:36 - ----------------------Starting Verifing the Login page----------------------------
+2017-06-27 09:42:28 INFO  HomePage:43 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (b457191d-12ea-494b-b249-31359a990d02)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-27 09:42:30 INFO  HomePage:45 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b457191d-12ea-494b-b249-31359a990d02)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[1]/a]
+2017-06-27 09:42:30 INFO  HomePage:47 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b457191d-12ea-494b-b249-31359a990d02)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[1]/input]
+2017-06-27 09:42:31 INFO  HomePage:49 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b457191d-12ea-494b-b249-31359a990d02)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[2]/input]
+2017-06-27 09:42:31 INFO  HomePage:51 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b457191d-12ea-494b-b249-31359a990d02)] -> xpath: //*[@id='loginfrm']/div[4]/button]
+2017-06-27 09:42:34 INFO  HomePage:55 - Verifing the Error message
+2017-06-27 09:42:35 INFO  TestBase:42 - ----------------------Ending the Login page----------------------------
+2017-06-27 13:08:36 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 13:10:03 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 13:10:04 INFO  HomePage:90 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-27 13:10:05 INFO  HomePage:93 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[2]/a]
+2017-06-27 13:10:06 INFO  HomePage:97 - Entered the First Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+2017-06-27 13:10:06 INFO  HomePage:101 - Entered the Last Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+2017-06-27 13:10:06 INFO  HomePage:105 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+2017-06-27 13:10:07 INFO  HomePage:109 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+2017-06-27 13:10:07 INFO  HomePage:113 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+2017-06-27 13:10:07 INFO  HomePage:117 - Entered the Confirm Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+2017-06-27 13:10:08 INFO  HomePage:120 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (34bdcbf2-287a-4ecb-be88-a16f44ef7073)] -> xpath: //*[@id='headersignupform']/div[9]/button]
+2017-06-27 13:12:34 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 13:13:29 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 13:13:29 INFO  HomePage:90 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-27 13:13:30 INFO  HomePage:93 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[2]/a]
+2017-06-27 13:13:31 INFO  HomePage:97 - Entered the First Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+2017-06-27 13:13:32 INFO  HomePage:101 - Entered the Last Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+2017-06-27 13:13:32 INFO  HomePage:105 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+2017-06-27 13:13:32 INFO  HomePage:109 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+2017-06-27 13:13:33 INFO  HomePage:113 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+2017-06-27 13:13:33 INFO  HomePage:117 - Entered the Confirm Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+2017-06-27 13:13:33 INFO  HomePage:120 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (33743f52-c784-46f2-a0fb-656ce521b04e)] -> xpath: //*[@id='headersignupform']/div[9]/button]
+2017-06-27 13:32:39 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 13:32:39 INFO  HomePage:90 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-27 13:32:41 INFO  HomePage:93 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[2]/a]
+2017-06-27 13:32:41 INFO  HomePage:97 - Entered the First Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+2017-06-27 13:32:42 INFO  HomePage:101 - Entered the Last Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+2017-06-27 13:32:42 INFO  HomePage:105 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+2017-06-27 13:32:42 INFO  HomePage:109 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+2017-06-27 13:32:43 INFO  HomePage:113 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+2017-06-27 13:32:43 INFO  HomePage:117 - Entered the Confirm Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+2017-06-27 13:32:43 INFO  HomePage:120 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (d2237791-6ea8-4a10-b1fb-d21e7904c779)] -> xpath: //*[@id='headersignupform']/div[9]/button]
+2017-06-27 16:15:06 INFO  TC002_VerifyNewUserRegistration:29 - --------------Starting Sign up page test-------------------- 
+2017-06-27 16:15:07 INFO  HomePage:90 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-27 16:15:08 INFO  HomePage:93 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[2]/a]
+2017-06-27 16:15:08 INFO  HomePage:97 - Entered the First Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[3]/input]
+2017-06-27 16:15:09 INFO  HomePage:101 - Entered the Last Name in sign up form and object is :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[4]/input]
+2017-06-27 16:15:09 INFO  HomePage:105 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[5]/input]
+2017-06-27 16:15:09 INFO  HomePage:109 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[6]/input]
+2017-06-27 16:15:10 INFO  HomePage:113 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[7]/input]
+2017-06-27 16:15:10 INFO  HomePage:117 - Entered the Confirm Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[8]/input]
+2017-06-27 16:15:10 INFO  HomePage:120 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (91485d3c-8f7a-46e5-9687-c8709a1e1597)] -> xpath: //*[@id='headersignupform']/div[9]/button]
+2017-06-27 16:15:14 INFO  TC002_VerifyNewUserRegistration:34 - --------------Ending Sign up page test-------------------- 
+2017-06-28 19:05:20 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-28 19:05:20 INFO  HomePage:72 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-28 19:05:22 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[1]/a]
+2017-06-28 19:05:23 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[1]/input]
+2017-06-28 19:05:23 INFO  HomePage:78 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[2]/input]
+2017-06-28 19:05:23 INFO  HomePage:80 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/button]
+2017-06-28 19:05:23 INFO  TC003_VerifyLoginWithDifferentRecords:38 - --------------Ending login with Different Records------------------
+2017-06-28 19:05:23 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-28 19:05:23 INFO  HomePage:72 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-28 19:05:24 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[1]/a]
+2017-06-28 19:05:25 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[1]/input]
+2017-06-28 19:05:25 INFO  HomePage:78 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[2]/input]
+2017-06-28 19:05:25 INFO  HomePage:80 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/button]
+2017-06-28 19:05:25 INFO  TC003_VerifyLoginWithDifferentRecords:38 - --------------Ending login with Different Records------------------
+2017-06-28 19:05:25 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-28 19:05:25 INFO  HomePage:72 - Clicked on myaccount label and object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/a]
+2017-06-28 19:05:27 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: html/body/div[2]/div/div/div[2]/ul/li[2]/ul/li[1]/a]
+2017-06-28 19:05:27 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[1]/input]
+2017-06-28 19:05:27 INFO  HomePage:78 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[2]/input]
+2017-06-28 19:05:27 INFO  HomePage:80 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/button]
+2017-06-28 19:05:27 INFO  TC003_VerifyLoginWithDifferentRecords:38 - --------------Ending login with Different Records------------------

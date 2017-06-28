@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Test]">
+  <test name="Sign up Test(failed)">
+    <classes>
+      <class name="com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration">
+        <methods>
+          <include name="setup"/>
+          <include name="endSetUp"/>
+          <include name="verifyNewUserRegistration"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration -->
+    </classes>
+  </test> <!-- Sign up Test(failed) -->
+</suite> <!-- Failed suite [Regression Test] -->
