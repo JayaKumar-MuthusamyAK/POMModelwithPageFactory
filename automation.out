@@ -71,3 +71,196 @@
 2017-06-28 19:05:27 INFO  HomePage:78 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/div/div[2]/input]
 2017-06-28 19:05:27 INFO  HomePage:80 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b145174a-ce8f-42a3-95b0-19a93820daa8)] -> xpath: //*[@id='loginfrm']/div[4]/button]
 2017-06-28 19:05:27 INFO  TC003_VerifyLoginWithDifferentRecords:38 - --------------Ending login with Different Records------------------
+2017-06-29 09:59:31 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-29 09:59:32 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='signIn']]
+2017-06-29 09:59:33 INFO  HomePage:75 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='user']]
+2017-06-29 09:59:33 INFO  HomePage:77 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='pass']]
+2017-06-29 09:59:33 INFO  HomePage:79 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='loginLink']]
+2017-06-29 09:59:34 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Ending login with Different Records------------------
+2017-06-29 09:59:34 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-29 09:59:34 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='signIn']]
+2017-06-29 09:59:35 INFO  HomePage:75 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='user']]
+2017-06-29 09:59:35 INFO  HomePage:77 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='pass']]
+2017-06-29 09:59:35 INFO  HomePage:79 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='loginLink']]
+2017-06-29 09:59:36 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Ending login with Different Records------------------
+2017-06-29 09:59:36 INFO  TC003_VerifyLoginWithDifferentRecords:35 - --------------Starting login with Different Records------------------
+2017-06-29 09:59:37 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='signIn']]
+2017-06-29 09:59:37 INFO  HomePage:75 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='user']]
+2017-06-29 09:59:37 INFO  HomePage:77 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='pass']]
+2017-06-29 09:59:37 INFO  HomePage:79 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d706840d-cfb8-45fb-882c-35045e344a3c)] -> xpath: //*[@id='loginLink']]
+2017-06-29 09:59:38 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Ending login with Different Records------------------
+2017-06-29 10:04:18 INFO  TC003_VerifyLoginWithDifferentRecords:37 - --------------Starting login with Different Records------------------
+2017-06-29 10:04:19 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='signIn']]
+2017-06-29 10:04:20 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='user']]
+2017-06-29 10:04:20 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='pass']]
+2017-06-29 10:04:21 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='loginLink']]
+2017-06-29 10:04:22 INFO  TC003_VerifyLoginWithDifferentRecords:40 - --------------Ending login with Different Records------------------
+2017-06-29 10:04:22 INFO  TC003_VerifyLoginWithDifferentRecords:37 - --------------Starting login with Different Records------------------
+2017-06-29 10:04:22 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='signIn']]
+2017-06-29 10:04:23 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='user']]
+2017-06-29 10:04:23 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='pass']]
+2017-06-29 10:04:23 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='loginLink']]
+2017-06-29 10:04:24 INFO  TC003_VerifyLoginWithDifferentRecords:40 - --------------Ending login with Different Records------------------
+2017-06-29 10:04:24 INFO  TC003_VerifyLoginWithDifferentRecords:37 - --------------Starting login with Different Records------------------
+2017-06-29 10:04:24 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='signIn']]
+2017-06-29 10:04:25 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='user']]
+2017-06-29 10:04:25 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='pass']]
+2017-06-29 10:04:25 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (65babc40-17f2-405a-975d-e6756c788359)] -> xpath: //*[@id='loginLink']]
+2017-06-29 10:04:26 INFO  TC003_VerifyLoginWithDifferentRecords:40 - --------------Ending login with Different Records------------------
+2017-06-29 20:52:41 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Starting login with Different Records------------------
+2017-06-29 20:52:41 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='signIn']]
+2017-06-29 20:52:42 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='user']]
+2017-06-29 20:52:43 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='pass']]
+2017-06-29 20:52:43 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='loginLink']]
+2017-06-29 20:52:43 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Ending login with Different Records------------------
+2017-06-29 20:52:43 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Starting login with Different Records------------------
+2017-06-29 20:52:44 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='signIn']]
+2017-06-29 20:52:44 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='user']]
+2017-06-29 20:52:44 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='pass']]
+2017-06-29 20:52:46 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='loginLink']]
+2017-06-29 20:52:46 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Ending login with Different Records------------------
+2017-06-29 20:52:46 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------Starting login with Different Records------------------
+2017-06-29 20:52:47 INFO  HomePage:73 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='signIn']]
+2017-06-29 20:52:47 INFO  HomePage:76 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='user']]
+2017-06-29 20:52:47 INFO  HomePage:79 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='pass']]
+2017-06-29 20:52:48 INFO  HomePage:81 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (5a6d648b-75f9-47c0-8af6-a7ed586ff388)] -> xpath: //*[@id='loginLink']]
+2017-06-29 20:52:48 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Ending login with Different Records------------------
+2017-06-29 21:56:59 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 21:56:59 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='signIn']]
+2017-06-29 21:57:00 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='user']]
+2017-06-29 21:57:01 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='pass']]
+2017-06-29 21:57:01 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='loginLink']]
+2017-06-29 21:57:01 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 21:57:02 INFO  TC003_VerifyLoginWithDifferentRecords:58 - --------------Ending login with Different Records------------------
+2017-06-29 21:57:02 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 21:57:02 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='signIn']]
+2017-06-29 21:57:02 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='user']]
+2017-06-29 21:57:02 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='pass']]
+2017-06-29 21:57:03 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='loginLink']]
+2017-06-29 21:57:03 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 21:57:03 INFO  TC003_VerifyLoginWithDifferentRecords:58 - --------------Ending login with Different Records------------------
+2017-06-29 21:57:03 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 21:57:04 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='signIn']]
+2017-06-29 21:57:04 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='user']]
+2017-06-29 21:57:04 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='pass']]
+2017-06-29 21:57:05 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='loginLink']]
+2017-06-29 21:57:05 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (1d4c9ed4-9ae4-4dbe-93ad-23704afb1069)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 21:57:05 INFO  TC003_VerifyLoginWithDifferentRecords:58 - --------------Ending login with Different Records------------------
+2017-06-29 22:06:10 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:06:11 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:06:12 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='user']]
+2017-06-29 22:06:13 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='pass']]
+2017-06-29 22:06:13 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:06:13 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:06:13 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:06:13 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:06:13 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:06:14 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='user']]
+2017-06-29 22:06:14 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='pass']]
+2017-06-29 22:06:15 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:06:15 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:06:15 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:06:15 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:06:16 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:06:16 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='user']]
+2017-06-29 22:06:17 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='pass']]
+2017-06-29 22:06:17 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:06:17 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (6c046049-5d88-4f24-9ce5-63dccf99ab92)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:06:17 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:10:13 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:10:14 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:10:15 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='user']]
+2017-06-29 22:10:15 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='pass']]
+2017-06-29 22:10:17 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:10:17 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:10:17 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:10:17 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:10:17 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:10:17 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='user']]
+2017-06-29 22:10:18 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='pass']]
+2017-06-29 22:10:18 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:10:18 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:10:19 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:10:19 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:10:19 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:10:19 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='user']]
+2017-06-29 22:10:20 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='pass']]
+2017-06-29 22:10:20 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:10:20 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2faa4c39-15d9-4979-ba21-e127a4f09929)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:10:20 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:14:40 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:14:41 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:14:41 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='user']]
+2017-06-29 22:14:42 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='pass']]
+2017-06-29 22:14:43 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:14:43 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:14:43 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:14:43 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:14:43 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:14:43 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='user']]
+2017-06-29 22:14:43 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='pass']]
+2017-06-29 22:14:44 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:14:44 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:14:44 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:14:44 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:14:45 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:14:45 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='user']]
+2017-06-29 22:14:45 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='pass']]
+2017-06-29 22:14:46 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:14:46 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (2e466789-f933-4a01-8364-1602332232a8)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:14:46 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:24:17 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:24:17 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:24:19 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='user']]
+2017-06-29 22:24:19 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='pass']]
+2017-06-29 22:24:20 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:24:20 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:24:20 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:24:20 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:24:20 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:24:20 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='user']]
+2017-06-29 22:24:21 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='pass']]
+2017-06-29 22:24:22 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:24:22 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:24:22 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:24:22 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:24:22 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:24:23 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='user']]
+2017-06-29 22:24:23 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='pass']]
+2017-06-29 22:24:23 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:24:24 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (a18f679c-515a-4ec9-b7fa-f340013a24ac)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:24:24 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:32:16 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:32:17 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:32:18 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='user']]
+2017-06-29 22:32:18 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='pass']]
+2017-06-29 22:32:19 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:32:19 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:32:19 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:32:20 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:32:20 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:32:20 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='user']]
+2017-06-29 22:32:21 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='pass']]
+2017-06-29 22:32:24 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:32:24 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0651eebd-3a64-485f-9da8-29b1d557e1c6)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:36:28 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:36:30 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:36:32 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='user']]
+2017-06-29 22:36:32 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='pass']]
+2017-06-29 22:36:32 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:36:32 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:36:32 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:36:34 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:36:34 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:36:35 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='user']]
+2017-06-29 22:36:36 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='pass']]
+2017-06-29 22:36:36 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:36:36 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:36:36 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:36:38 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-29 22:36:38 INFO  HomePage:74 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='signIn']]
+2017-06-29 22:36:38 INFO  HomePage:77 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='user']]
+2017-06-29 22:36:39 INFO  HomePage:80 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='pass']]
+2017-06-29 22:36:39 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='loginLink']]
+2017-06-29 22:36:39 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-29 22:36:39 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------

@@ -1,5 +1,7 @@
 package com.demo.automation.POMFramework.homepage;
 
+import java.io.IOException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -18,7 +20,7 @@ public class TC001_VerifyLoginwithInvalidCredentials extends TestBase {
 	HomePage homepage;
 	
 	@BeforeTest
-	public void setup(){
+	public void setup() throws IOException{
 		   init();
 	}
 	
@@ -38,7 +40,7 @@ public class TC001_VerifyLoginwithInvalidCredentials extends TestBase {
 		
 		homepage.loginToAppilcation("test@gmail.com", "1234567");
 		Thread.sleep(3000);
-		Assert.assertEquals(homepage.getFailedMessage(), "Invalid Email or Password");
+		Assert.assertEquals(homepage.getFailedMessage(), "Sorry, your email or password appears to be incorrect. Please check and try again.");
 		log.info("----------------------Ending the Login page----------------------------");
 	}
 	

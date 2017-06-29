@@ -1,5 +1,7 @@
 package com.demo.automation.POMFramework.homepage;
 
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
@@ -18,7 +20,7 @@ public class TC002_VerifyNewUserRegistration extends TestBase {
 	
 	HomePage homepage;
 	@BeforeTest
-	public void setup(){
+	public void setup() throws IOException{
 		
 		init();
 	}
@@ -30,7 +32,7 @@ public class TC002_VerifyNewUserRegistration extends TestBase {
 		homepage = new HomePage(driver);
 		homepage.new_userLogin("Jakay", "K", "984898958", "jakay555@gmail.com", "12345678", "12345678");
 		
-		Assert.assertTrue(homepage.userSignupSuccessMessage("Jakay", "K"), "User is Successfully Signed UP");
+		Assert.assertTrue(homepage.userSignupSuccessMessage("Jakay", "K"), "Thank you for registering with CeX");
 		log.info("--------------Ending Sign up page test-------------------- ");
 		
 	}

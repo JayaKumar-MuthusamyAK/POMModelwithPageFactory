@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Test]">
+  <listeners>
+    <listener class-name="com.demo.automation.POMFramework.customListners.Listners"/>
+  </listeners>
+  <test name="Sign up Test(failed)">
     <classes>
       <class name="com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords">
         <methods>
@@ -11,5 +14,5 @@
         </methods>
       </class> <!-- com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Sign up Test(failed) -->
+</suite> <!-- Failed suite [Regression Test] -->

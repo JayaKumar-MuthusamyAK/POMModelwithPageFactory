@@ -1,9 +1,12 @@
 package com.demo.automation.POMFramework.testBase;
 
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
@@ -26,15 +29,18 @@ public class TestBase {
 
 	
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
-	public WebDriver driver;
-
+	public static WebDriver driver;
+	public FileInputStream fi;
+	public Properties prop;
+	
 	public String browserName = "firefox";
-	String url = "http://www.phptravels.net/";
+	String url = "https://in.webuy.com/";
 
 	ExcelReader excel;
 	
 	
-	public void init() {
+	public void init() throws IOException {
+		loadData();
 		selectBrowser(browserName);
 		getUrl(url);
 		
@@ -42,8 +48,15 @@ public class TestBase {
 		PropertyConfigurator.configure(log4jConfigPath);
 	}
 
+	// Get the properties file data.
+	public void loadData() throws IOException{
+		fi = new FileInputStream(System.getProperty("user.dir")+"/src/main/java/com/demo/automation/POMFramework/config/OR.properties");
+		prop = new Properties();
+		prop.load(fi);
+	}
+	
 	public void selectBrowser(String browserName) {
-
+		System.out.println(prop.getProperty("browser"));
 		if (browserName.equalsIgnoreCase("firefox")) {
 
 			log.info("Openinng the browser.."+browserName);
