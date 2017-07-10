@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shopping page test Cases">
+
+<listeners>
+	<!--<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener> -->
+	<!--<listener class-name="com.demo.automation.POMFramework.customListners.WebEventListnersClass"></listener> -->
+	<listener
+		class-name="com.demo.automation.POMFramework.customListners.RetryListners"></listener>
+</listeners>
+<test name="Verify the Shopping page project name and price">
+<classes>
+	<class
+		name="com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment"></class>
+</classes>
+</test>
+</suite>

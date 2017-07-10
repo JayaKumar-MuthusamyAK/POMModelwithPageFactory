@@ -13,7 +13,7 @@ import com.demo.automation.POMFramework.uiActions.ListingPage;
 import com.demo.automation.POMFramework.uiActions.ProjectViewPage;
 import com.demo.automation.POMFramework.uiActions.ShoppingPage;
 
-public class TC002_Add_ProjectToWishListToPayment extends TestBase {
+public class TC001_Add_ProjectToWishListToPayment extends TestBase {
 	
 	HomePage homepage;
 	ListingPage listpage;
