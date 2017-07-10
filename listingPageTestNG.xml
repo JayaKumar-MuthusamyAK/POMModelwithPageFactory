@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Listing Page Add Cart verification">
+<listeners>
+<!--<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener>-->
+<!--<listener class-name="com.demo.automation.POMFramework.customListners.WebEventListnersClass"></listener> -->
+<listener class-name="com.demo.automation.POMFramework.customListners.RetryListners"></listener> 
+</listeners>
+<test name="Listing page verification">
+<classes>
+<class name="com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart"></class>
+</classes>
+</test>
+</suite>

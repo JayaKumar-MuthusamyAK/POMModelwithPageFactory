@@ -3,13 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords">
+      <class name="com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration">
         <methods>
-          <include name="setUp"/>
-          <include name="endTest"/>
-          <include name="testLogin" invocation-numbers="2 3 4 5"/>
+          <include name="setup"/>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+          <include name="endSetUp"/>
+          <include name="endTesting"/>
+          <include name="verifyNewUserRegistration"/>
         </methods>
-      </class> <!-- com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

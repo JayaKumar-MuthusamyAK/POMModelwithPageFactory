@@ -1,66 +1,81 @@
 package com.demo.automation.POMFramework.uiActions;
 
+import java.util.List;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
 
 import com.demo.automation.POMFramework.testBase.TestBase;
 
-public class HomePage {
+public class HomePage extends TestBase {
 
 	public static final Logger log = Logger.getLogger(HomePage.class.getName());
+	
 	WebDriver driver;
 
-	@FindBy(xpath = "//*[@id='signIn']")
+	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[2]/div/div[1]/span[1]")
+	WebElement yourAccount;
+
+	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]")
 	WebElement loginLbl;
 
-	@FindBy(xpath = "//*[@id='user']")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input")
 	WebElement loginEmail;
 
-	@FindBy(xpath = "//*[@id='pass']")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input")
 	WebElement loginPassword;
 
-	@FindBy(xpath = "//*[@id='loginLink']")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[2]/button")
 	WebElement loginBtn;
 
-	@FindBy(xpath = "//*[@id='frmLogin']/div/div[1]")
-	WebElement authonticationFailMessage;
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div[2]/div/div/p")
+	WebElement loginFailMessage;
 
-	@FindBy(xpath = "//*[@id='myaccount_manage']")
-	WebElement authonticationSuccessMEssage;
+	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[1]/a/div[2]")
+	WebElement loginSuccessMEssage;
 
-	@FindBy(xpath = "//*[@id='asdf']")
+	@FindBy(xpath = "//div[@class='desktop-accInfoSection'][contains(text(),'Logout')]")
+	List<WebElement> verifylogOutBtn;
+
+	@FindBy(xpath = "//div[@class='desktop-accInfoSection'][contains(text(),'Logout')]")
+	WebElement logOutBtn;
+	
+	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]")
 	WebElement SignUpLbl;
 
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[1]/input[1]")
-	WebElement SignUpFirstName;
-
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[1]/input[2]")
-	WebElement SignUpLastName;
-
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[3]/input[3]")
-	WebElement SignUpMobile;
-
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[1]/input[3]")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input")
 	WebElement SignUpEmail;
 
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[1]/input[4]")
-	WebElement SignUpConfirmMail;
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input")
+	WebElement SignUpMobile;
 
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[3]/input[1]")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input")
 	WebElement SignUpPassword;
 
-	@FindBy(xpath = "//*[@id='frm_registration']/div[1]/div[3]/input[2]")
-	WebElement SignUpConfirmPassword;
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[1]/fieldset/label[1]")
+	WebElement Gender;
 
-	@FindBy(xpath = "//*[@id='frm_registration']/div[2]/input[3]")
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div/form/fieldset[2]/button")
 	WebElement SignUpSubmitBtn;
 
-	@FindBy(xpath = "//*[@id='signup']/div/div[2]/p[1]")
-	WebElement NewUserSuccessMessage;
+	@FindBy(xpath = "//div[@class='desktop-infoEmail']")
+	WebElement newUserSuccessMessage;
+
+	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[3]/input")
+	WebElement SearchBox;
+	
+	@FindBy(xpath="//div[@class='desktop-userIconsContainer']")
+	WebElement user_account_Link;
+	
+	@FindBy(xpath="//*[@id='mountRoot']/div/div/div[2]/div/div/p")
+	List<WebElement> useralreadyExist;
 
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
@@ -70,83 +85,120 @@ public class HomePage {
 
 	public void loginToAppilcation(String email, String pwd) {
 
+		moveCursor();
 		loginLbl.click();
-		log.info("Clicked on the login label and Object is :" + loginLbl.toString());
+		log("Clicked on the login label and Object is :" + loginLbl.toString());
 		loginEmail.clear();
 		loginEmail.sendKeys(email);
-		log.info("Enter email address and Object is :" + loginEmail.toString());
+		log("Enter email address and Object is :" + loginEmail.toString());
 		loginPassword.clear();
 		loginPassword.sendKeys(pwd);
-		log.info("Enter Password  and Object is :" + loginPassword.toString());
+		log("Enter Password  and Object is :" + loginPassword.toString());
 		loginBtn.click();
-		log.info("Clicked the Login button and Object is :" + loginBtn.toString());
+		log("Clicked the Login button and Object is :" + loginBtn.toString());
 	}
 
 	public String getFailedMessage() {
-		log.info("Verifing the Error message :" + authonticationFailMessage.toString());
-		return authonticationFailMessage.getText();
-	}
-	
-	public String getSuccessMessage(){
-		log.info("Verifing the Error message :" + authonticationSuccessMEssage.toString());
-		return authonticationSuccessMEssage.getText();
+		log("Verifing the Error message :" + loginFailMessage.toString());
+		// System.out.println(authonticationFailMessage.getText());
+		return loginFailMessage.getText();
 	}
 
-	public void new_userLogin(String firstname, String lastname, String mobile, String email, String password,
-			String confirmPassword) {
+	public String getSuccessMessage() {
+		
+		log("Verifing the Error message :" + loginSuccessMEssage.toString());
+		// System.out.println(authonticationSuccessMEssage.getText());
+		return loginSuccessMEssage.getText();
+	}
 
+	public void new_userLogin(String email,String mobile, String password, String gender) {
+		moveCursor();
 		SignUpLbl.click();
-		log.info("Clicked on SignUp option and object is :" + SignUpLbl.toString());
-
-		SignUpFirstName.clear();
-		SignUpFirstName.sendKeys(firstname);
-		log.info("Entered the First Name in sign up form and object is :" + SignUpFirstName.toString());
-
-		SignUpLastName.clear();
-		SignUpLastName.sendKeys(lastname);
-		log.info("Entered the Last Name in sign up form and object is :" + SignUpLastName.toString());
+		log("Clicked on SignUp option and object is :" + SignUpLbl.toString());
 
 		SignUpMobile.clear();
 		SignUpMobile.sendKeys(mobile);
-		log.info("Entered the mobile number in sign up form and object is  :" + SignUpMobile.toString());
+		log("Entered the mobile number in sign up form and object is  :" + SignUpMobile.toString());
 
 		SignUpEmail.clear();
 		SignUpEmail.sendKeys(email);
-		log.info("Entered the Email address in sign up form and object is  :" + SignUpEmail.toString());
-
-		SignUpConfirmMail.clear();
-		SignUpConfirmMail.sendKeys(email);
-		log.info("Entered the Confirmation Email address in sign up form and object is  :"
-				+ SignUpConfirmMail.toString());
+		log("Entered the Email address in sign up form and object is  :" + SignUpEmail.toString());
 
 		SignUpPassword.clear();
 		SignUpPassword.sendKeys(password);
-		log.info("Entered the Password in sign up form and object is  :" + SignUpPassword.toString());
+		log("Entered the Password in sign up form and object is  :" + SignUpPassword.toString());
 
-		SignUpConfirmPassword.clear();
-		SignUpConfirmPassword.sendKeys(confirmPassword);
-		log.info("Entered the Confirm Password in sign up form and object is  :" + SignUpConfirmPassword.toString());
-
+		driver.findElement(By.xpath("//label[@class='register-gender-label'][contains(text(),'"+gender+"')]")).click();
+		
 		SignUpSubmitBtn.click();
-		log.info("Clicked on SignUp button and object is :" + SignUpSubmitBtn.toString());
+		log("Clicked on SignUp button and object is :" + SignUpSubmitBtn.toString());
 
 	}
 
-	public boolean userSignupSuccessMessage(String firstname, String lastname) {
+	public String userSignupSuccessMessage() {
 
-		return driver.findElement(By.xpath("//*[contains(text(),'" + firstname + " " + lastname + "')]")).isDisplayed();
-
-	}
-
-	public boolean verifySuccessMsgTextPresent() {
-
-		return authonticationSuccessMEssage.isDisplayed();
+		Actions act = new Actions(driver);
+		act.moveToElement(user_account_Link).build().perform();
+		
+		return newUserSuccessMessage.getText();
 
 	}
 
-	public boolean verifyFailureMsgTextPresent() {
 
-		return authonticationFailMessage.isDisplayed();
+	public boolean verifyEmailAlreadyExistMsgTextPresent() {
+		
+		return useralreadyExist.size()!=0;
 
 	}
+
+	public WebElement waitForElementPresent() {
+
+		return SearchBox;
+
+	}
+
+	public boolean checkLogOutbtn() {
+		user_account_Link.click();
+		return verifylogOutBtn.size()!=0;
+	}
+	
+	public void clickOnLogOutbtn() {
+		user_account_Link.click();
+		logOutBtn.click();
+	}
+
+	public boolean verifyLoginErrorMessage()
+	{
+		return loginFailMessage.isDisplayed();
+	}
+	public void moveCursor() {
+
+		Actions act = new Actions(driver);
+		act.moveToElement(yourAccount).build().perform();
+	}
+	public void clickOnMainMenuLink(String menuname){
+		
+		driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/a[contains(text(),'"+menuname+"')]")).click();
+	}
+	public void clickOnSubLink(String menuname){
+		
+		driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/div/div/ul/li/a[contains(text(),'"+menuname+"')]")).click();
+	}
+	public void moveMouseMainMenu(String menuname){
+		
+		Actions act = new Actions(driver);
+		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/a[contains(text(),'"+menuname+"')]"))).build().perform();
+	}
+
+   public void moveMouseSubMenu(String menuname){
+		
+		Actions act = new Actions(driver);
+		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/div/div/ul/li/a[contains(text(),'"+menuname+"')]"))).build().perform();
+	}
+	public void log(String data) {
+
+		log.info(data);
+		Reporter.log(data);
+	}
+	
 }

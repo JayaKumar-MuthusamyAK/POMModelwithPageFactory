@@ -264,3 +264,1282 @@
 2017-06-29 22:36:39 INFO  HomePage:82 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='loginLink']]
 2017-06-29 22:36:39 INFO  HomePage:86 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (20c83cdb-418b-42ea-a948-2487ecf7995d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
 2017-06-29 22:36:39 INFO  TC003_VerifyLoginWithDifferentRecords:62 - --------------Ending login with Different Records------------------
+2017-06-29 22:55:10 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:50:22 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:50:23 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:50:24 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='user']]
+2017-06-30 09:50:24 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='pass']]
+2017-06-30 09:50:25 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:50:25 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:50:25 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 09:50:26 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:50:26 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:50:27 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='user']]
+2017-06-30 09:50:27 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='pass']]
+2017-06-30 09:50:27 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:50:27 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:50:27 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 09:50:29 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:50:29 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:50:29 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='user']]
+2017-06-30 09:50:29 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='pass']]
+2017-06-30 09:50:30 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:50:30 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f127627-4eb7-409d-8652-63ba0b55ec9a)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:50:30 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 09:57:21 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:57:21 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:57:22 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='user']]
+2017-06-30 09:57:23 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='pass']]
+2017-06-30 09:57:23 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:57:23 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:57:23 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 09:57:24 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:57:25 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:57:25 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='user']]
+2017-06-30 09:57:25 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='pass']]
+2017-06-30 09:57:26 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:57:26 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:57:26 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 09:57:27 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 09:57:27 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='signIn']]
+2017-06-30 09:57:27 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='user']]
+2017-06-30 09:57:28 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='pass']]
+2017-06-30 09:57:28 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='loginLink']]
+2017-06-30 09:57:28 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0f878428-3e6a-46b7-9c72-b8f3ab9595e0)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 09:57:28 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:00:02 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:00:03 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:00:03 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='user']]
+2017-06-30 10:00:04 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='pass']]
+2017-06-30 10:00:05 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:00:05 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:00:05 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:00:06 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:00:06 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:00:07 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='user']]
+2017-06-30 10:00:07 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='pass']]
+2017-06-30 10:00:07 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:00:07 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:00:08 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:00:08 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:00:09 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:00:09 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='user']]
+2017-06-30 10:00:09 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='pass']]
+2017-06-30 10:00:10 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:00:10 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (85d6cb30-0219-4622-a077-2e12da2d5a20)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:00:10 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:15:56 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:15:57 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (a05a0445-856a-4a2c-a81c-80c26f066536)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:15:58 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (a05a0445-856a-4a2c-a81c-80c26f066536)] -> xpath: //*[@id='user']]
+2017-06-30 10:15:58 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (a05a0445-856a-4a2c-a81c-80c26f066536)] -> xpath: //*[@id='pass']]
+2017-06-30 10:17:47 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:17:48 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:17:48 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='user']]
+2017-06-30 10:17:49 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='pass']]
+2017-06-30 10:17:49 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:17:49 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:17:49 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:17:50 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:17:51 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:17:51 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='user']]
+2017-06-30 10:17:51 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='pass']]
+2017-06-30 10:17:52 INFO  HomePage:85 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:17:52 INFO  HomePage:89 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:17:52 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 10:17:53 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:17:53 INFO  HomePage:77 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:17:54 INFO  HomePage:80 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='user']]
+2017-06-30 10:17:54 INFO  HomePage:83 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (29ef5324-6d84-45d1-99f2-15542e00163b)] -> xpath: //*[@id='pass']]
+2017-06-30 10:18:59 INFO  HomePage:85 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 10:26:59 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:27:00 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:27:01 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='user']]
+2017-06-30 10:27:01 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='pass']]
+2017-06-30 10:27:02 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:27:02 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:27:02 INFO  TC003_VerifyLoginWithDifferentRecords:67 - --------------Ending login with Different Records------------------
+2017-06-30 10:27:02 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:27:03 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:27:03 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='user']]
+2017-06-30 10:27:03 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='pass']]
+2017-06-30 10:27:04 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='loginLink']]
+2017-06-30 10:27:04 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 10:27:04 INFO  TC003_VerifyLoginWithDifferentRecords:67 - --------------Ending login with Different Records------------------
+2017-06-30 10:27:04 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 10:27:04 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='signIn']]
+2017-06-30 10:27:05 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='user']]
+2017-06-30 10:27:05 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (7b5f6715-f936-4583-ae54-e6d39d6efd65)] -> xpath: //*[@id='pass']]
+2017-06-30 10:27:22 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 15:39:57 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:39:59 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:40:00 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='user']]
+2017-06-30 15:40:01 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='pass']]
+2017-06-30 15:40:02 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='loginLink']]
+2017-06-30 15:40:02 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 15:40:02 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 15:40:03 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:40:04 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:40:04 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='user']]
+2017-06-30 15:40:04 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='pass']]
+2017-06-30 15:40:05 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='loginLink']]
+2017-06-30 15:40:05 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 15:40:05 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 15:40:06 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:40:06 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:40:07 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='user']]
+2017-06-30 15:40:07 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (3bb67726-1712-4d25-b9a5-528a825333f9)] -> xpath: //*[@id='pass']]
+2017-06-30 15:40:18 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 15:53:34 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:53:35 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:53:36 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='user']]
+2017-06-30 15:53:37 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='pass']]
+2017-06-30 15:53:37 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='loginLink']]
+2017-06-30 15:53:37 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 15:53:37 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 15:53:38 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:53:38 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:53:39 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='user']]
+2017-06-30 15:53:39 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='pass']]
+2017-06-30 15:53:39 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='loginLink']]
+2017-06-30 15:53:40 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 15:53:40 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 15:53:41 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:53:41 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:53:41 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='user']]
+2017-06-30 15:53:42 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (be94db76-7937-4633-a1b3-ad478bbec19d)] -> xpath: //*[@id='pass']]
+2017-06-30 15:53:56 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 15:58:35 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 15:58:35 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (924421cb-d2a1-453d-b6b4-29d63cc2cad2)] -> xpath: //*[@id='signIn']]
+2017-06-30 15:58:36 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (924421cb-d2a1-453d-b6b4-29d63cc2cad2)] -> xpath: //*[@id='user']]
+2017-06-30 15:58:37 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (924421cb-d2a1-453d-b6b4-29d63cc2cad2)] -> xpath: //*[@id='pass']]
+2017-06-30 15:58:43 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (924421cb-d2a1-453d-b6b4-29d63cc2cad2)] -> xpath: //*[@id='loginLink']]
+2017-06-30 17:12:16 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:12:16 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:12:16 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='user']]
+2017-06-30 17:12:17 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='pass']]
+2017-06-30 17:12:18 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='loginLink']]
+2017-06-30 17:12:18 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 17:12:18 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 17:12:19 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:12:19 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:12:19 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='user']]
+2017-06-30 17:12:19 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='pass']]
+2017-06-30 17:12:19 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='loginLink']]
+2017-06-30 17:12:19 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 17:12:19 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 17:12:20 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:12:20 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:12:21 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='user']]
+2017-06-30 17:12:21 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (223ce63f-6f25-4e16-986f-b9b0727899dc)] -> xpath: //*[@id='pass']]
+2017-06-30 17:12:35 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 17:27:52 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:27:52 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:27:53 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='user']]
+2017-06-30 17:27:54 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='pass']]
+2017-06-30 17:27:54 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='loginLink']]
+2017-06-30 17:27:54 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 17:28:55 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:28:55 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:28:56 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='user']]
+2017-06-30 17:28:56 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='pass']]
+2017-06-30 17:28:57 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='loginLink']]
+2017-06-30 17:28:57 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 17:29:58 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 17:29:58 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='signIn']]
+2017-06-30 17:29:58 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='user']]
+2017-06-30 17:29:58 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b0d607a8-45a1-48bc-9804-92c6eb34a2ad)] -> xpath: //*[@id='pass']]
+2017-06-30 17:31:07 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 21:10:28 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:10:29 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:10:32 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='user']]
+2017-06-30 21:10:32 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='pass']]
+2017-06-30 21:10:33 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:10:33 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 21:10:33 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 21:10:34 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:10:34 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:10:34 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='user']]
+2017-06-30 21:10:34 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='pass']]
+2017-06-30 21:10:35 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:10:35 INFO  HomePage:91 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-06-30 21:10:35 INFO  TC003_VerifyLoginWithDifferentRecords:65 - --------------Ending login with Different Records------------------
+2017-06-30 21:10:36 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:10:36 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:10:37 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='user']]
+2017-06-30 21:10:37 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca425c92-5f84-4b69-aa31-6f2ba52d8967)] -> xpath: //*[@id='pass']]
+2017-06-30 21:18:51 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:18:52 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:18:55 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='user']]
+2017-06-30 21:18:55 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='pass']]
+2017-06-30 21:18:57 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:19:57 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:19:57 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:19:58 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='user']]
+2017-06-30 21:19:58 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='pass']]
+2017-06-30 21:19:59 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:20:59 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:21:00 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:21:00 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='user']]
+2017-06-30 21:21:00 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (649541b3-9aee-485b-8ed4-2ea4451f314f)] -> xpath: //*[@id='pass']]
+2017-06-30 21:47:31 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:47:32 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:47:33 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='user']]
+2017-06-30 21:47:33 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='pass']]
+2017-06-30 21:47:34 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:48:34 INFO  HomePage:97 - Verifing the Error message :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='myaccount_manage']'
+2017-06-30 21:49:34 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:49:34 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:49:35 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='user']]
+2017-06-30 21:49:35 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='pass']]
+2017-06-30 21:49:40 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (81744e35-761c-428a-818f-f72fe1b63f9d)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:52:33 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:52:34 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:52:36 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='user']]
+2017-06-30 21:52:36 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='pass']]
+2017-06-30 21:52:39 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:52:39 INFO  TC003_VerifyLoginWithDifferentRecords:66 - --------------Ending login with Different Records------------------
+2017-06-30 21:52:39 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:52:40 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:52:41 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='user']]
+2017-06-30 21:52:41 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='pass']]
+2017-06-30 21:52:41 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:52:42 INFO  TC003_VerifyLoginWithDifferentRecords:66 - --------------Ending login with Different Records------------------
+2017-06-30 21:52:42 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:52:42 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:52:43 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='user']]
+2017-06-30 21:52:43 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (dfdb527e-daa4-40d5-92b3-20b95d4818e4)] -> xpath: //*[@id='pass']]
+2017-06-30 21:54:03 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 21:55:18 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:55:19 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:55:20 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='user']]
+2017-06-30 21:55:20 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='pass']]
+2017-06-30 21:55:21 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:55:21 INFO  TC003_VerifyLoginWithDifferentRecords:60 - --------------Ending login with Different Records------------------
+2017-06-30 21:55:21 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:55:22 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:55:23 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='user']]
+2017-06-30 21:55:23 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='pass']]
+2017-06-30 21:55:24 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:55:24 INFO  TC003_VerifyLoginWithDifferentRecords:60 - --------------Ending login with Different Records------------------
+2017-06-30 21:55:24 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:55:24 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:55:25 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='user']]
+2017-06-30 21:55:25 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f3713bb0-2f8e-4475-89b4-438103e1225e)] -> xpath: //*[@id='pass']]
+2017-06-30 21:57:51 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:57:52 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:57:53 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='user']]
+2017-06-30 21:57:53 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='pass']]
+2017-06-30 21:57:54 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='loginLink']]
+2017-06-30 21:58:54 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:58:54 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:58:54 INFO  TC003_VerifyLoginWithDifferentRecords:42 - --------------Starting login with Different Records------------------
+2017-06-30 21:58:55 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='signIn']]
+2017-06-30 21:58:55 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='user']]
+2017-06-30 21:58:56 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f8ba207f-9811-472f-9fbc-7742ca851565)] -> xpath: //*[@id='pass']]
+2017-06-30 22:07:08 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:07:09 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:07:10 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='user']]
+2017-06-30 22:07:11 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='pass']]
+2017-06-30 22:07:11 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='loginLink']]
+2017-06-30 22:07:11 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-06-30 22:07:11 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:07:11 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:07:12 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='user']]
+2017-06-30 22:07:12 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='pass']]
+2017-06-30 22:07:13 INFO  HomePage:87 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='loginLink']]
+2017-06-30 22:07:13 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-06-30 22:07:13 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:07:13 INFO  HomePage:79 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:07:14 INFO  HomePage:82 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='user']]
+2017-06-30 22:07:14 INFO  HomePage:85 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ca097398-73fb-492d-8aff-85aaf20a7179)] -> xpath: //*[@id='pass']]
+2017-06-30 22:08:20 INFO  HomePage:87 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 22:09:20 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-06-30 22:16:28 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:16:28 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (a4afa78b-0ccf-4726-98eb-317d71df2ab1)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:16:30 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (a4afa78b-0ccf-4726-98eb-317d71df2ab1)] -> xpath: //*[@id='user']]
+2017-06-30 22:16:30 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (a4afa78b-0ccf-4726-98eb-317d71df2ab1)] -> xpath: //*[@id='pass']]
+2017-06-30 22:16:31 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (a4afa78b-0ccf-4726-98eb-317d71df2ab1)] -> xpath: //*[@id='loginLink']]
+2017-06-30 22:20:22 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:20:23 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:20:24 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='user']]
+2017-06-30 22:20:25 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='pass']]
+2017-06-30 22:20:25 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='loginLink']]
+2017-06-30 22:20:25 INFO  HomePage:92 - Verifing the Error message :[[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='frmLogin']/div/div[1]]]
+2017-06-30 22:20:25 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-06-30 22:20:25 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:20:25 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:20:26 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='user']]
+2017-06-30 22:20:26 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='pass']]
+2017-06-30 22:20:26 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='loginLink']]
+2017-06-30 22:20:26 INFO  HomePage:92 - Verifing the Error message :[[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='frmLogin']/div/div[1]]]
+2017-06-30 22:20:26 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-06-30 22:20:26 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-06-30 22:20:27 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='signIn']]
+2017-06-30 22:20:27 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='user']]
+2017-06-30 22:20:27 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='pass']]
+2017-06-30 22:21:34 INFO  HomePage:88 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-06-30 22:22:34 INFO  HomePage:98 - Verifing the Error message :[[[FirefoxDriver: firefox on WINDOWS (68368acb-fa33-4fcd-a7b8-2c96b0319f05)] -> xpath: //*[@id='myaccount_manage']]]
+2017-06-30 22:22:34 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-07-01 09:41:40 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-07-01 09:41:41 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='signIn']]
+2017-07-01 09:41:42 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='user']]
+2017-07-01 09:41:42 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='pass']]
+2017-07-01 09:41:43 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='loginLink']]
+2017-07-01 09:41:43 INFO  HomePage:92 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-07-01 09:41:43 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-07-01 09:41:43 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-07-01 09:41:43 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='signIn']]
+2017-07-01 09:41:44 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='user']]
+2017-07-01 09:41:44 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='pass']]
+2017-07-01 09:41:44 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='loginLink']]
+2017-07-01 09:41:44 INFO  HomePage:92 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-07-01 09:41:44 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-07-01 09:41:44 INFO  TC003_VerifyLoginWithDifferentRecords:44 - --------------Starting login with Different Records------------------
+2017-07-01 09:41:45 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='signIn']]
+2017-07-01 09:41:45 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='user']]
+2017-07-01 09:41:45 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='pass']]
+2017-07-01 09:42:51 INFO  HomePage:88 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-07-01 09:43:51 INFO  HomePage:98 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (e2b62380-1fb7-4674-8243-48ee89d24952)] -> xpath: //*[@id='myaccount_manage']]
+2017-07-01 09:43:51 INFO  TC003_VerifyLoginWithDifferentRecords:68 - --------------Ending login with Different Records------------------
+2017-07-01 10:59:58 INFO  TC003_VerifyLoginWithDifferentRecords:47 - --------------Starting login with Different Records------------------
+2017-07-01 10:59:58 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='signIn']]
+2017-07-01 10:59:59 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='user']]
+2017-07-01 10:59:59 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='pass']]
+2017-07-01 11:00:00 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='loginLink']]
+2017-07-01 11:00:00 INFO  HomePage:92 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-07-01 11:00:01 INFO  TC003_VerifyLoginWithDifferentRecords:61 - --------------Ending login with Different Records------------------
+2017-07-01 11:00:01 INFO  TC003_VerifyLoginWithDifferentRecords:47 - --------------Starting login with Different Records------------------
+2017-07-01 11:00:02 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='signIn']]
+2017-07-01 11:00:02 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='user']]
+2017-07-01 11:00:02 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='pass']]
+2017-07-01 11:00:03 INFO  HomePage:88 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='loginLink']]
+2017-07-01 11:00:03 INFO  HomePage:92 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='frmLogin']/div/div[1]]
+2017-07-01 11:00:03 INFO  TC003_VerifyLoginWithDifferentRecords:61 - --------------Ending login with Different Records------------------
+2017-07-01 11:00:04 INFO  TC003_VerifyLoginWithDifferentRecords:47 - --------------Starting login with Different Records------------------
+2017-07-01 11:00:04 INFO  HomePage:80 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='signIn']]
+2017-07-01 11:00:05 INFO  HomePage:83 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='user']]
+2017-07-01 11:00:05 INFO  HomePage:86 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='pass']]
+2017-07-01 11:01:08 INFO  HomePage:88 - Clicked the Login button and Object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='loginLink']'
+2017-07-01 11:02:09 INFO  HomePage:98 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (d1bb72d7-50b6-483a-a2fa-6f07025f7858)] -> xpath: //*[@id='myaccount_manage']]
+2017-07-01 11:02:09 INFO  TC003_VerifyLoginWithDifferentRecords:61 - --------------Ending login with Different Records------------------
+2017-07-04 11:15:10 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:15:10 INFO  WebEventListnersClass:82 - Trying to click on the element of [[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:15:10 INFO  WebEventListnersClass:32 - Clicked on the element of [[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:15:12 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:15:13 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 11:15:14 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 11:15:14 INFO  WebEventListnersClass:82 - Trying to click on the element of [[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:15:14 INFO  WebEventListnersClass:32 - Clicked on the element of [[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:15:14 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:15:17 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (fb9d1373-c86e-492b-8a31-d9e7eec7a03d)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 11:18:10 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:18:11 INFO  WebEventListnersClass:82 - Trying to click on the element of [[FirefoxDriver: firefox on WINDOWS (45cb2408-5f34-4169-ad13-cb97aadc26dd)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:18:11 INFO  WebEventListnersClass:32 - Clicked on the element of [[FirefoxDriver: firefox on WINDOWS (45cb2408-5f34-4169-ad13-cb97aadc26dd)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:18:11 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (45cb2408-5f34-4169-ad13-cb97aadc26dd)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:24:12 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:24:12 INFO  WebEventListnersClass:82 - Trying to click on the element of [[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:24:12 INFO  WebEventListnersClass:32 - Clicked on the element of [[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:24:14 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:24:15 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 11:24:15 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 11:24:15 INFO  WebEventListnersClass:82 - Trying to click on the element of [[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:24:15 INFO  WebEventListnersClass:32 - Clicked on the element of [[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:24:15 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:24:18 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (8476ff2e-9be7-451e-a4b4-6d66903f6675)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 11:24:19 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 11:36:08 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:36:10 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (ee94633f-2a4f-4799-9dd9-297692ac594d)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:36:11 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (ee94633f-2a4f-4799-9dd9-297692ac594d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 11:36:11 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (ee94633f-2a4f-4799-9dd9-297692ac594d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 11:36:12 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (ee94633f-2a4f-4799-9dd9-297692ac594d)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:36:15 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (ee94633f-2a4f-4799-9dd9-297692ac594d)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 11:36:15 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 11:37:20 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:37:22 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:37:23 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 11:37:24 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 11:37:25 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:38:28 INFO  HomePage:94 - Verifing the Error message :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p'
+2017-07-04 11:39:28 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:39:32 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 11:39:32 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 11:39:32 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 11:39:33 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 11:39:36 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (61013c7b-a7c3-4a2b-b556-87333edd312e)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 11:39:36 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 11:48:57 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 11:49:00 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (31e2457e-aa04-45e9-962c-3e21c95046b2)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:00:52 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:02:57 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:02:59 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b6a85474-e082-46af-9f8b-40b319ba980c)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:03:00 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b6a85474-e082-46af-9f8b-40b319ba980c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:03:01 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b6a85474-e082-46af-9f8b-40b319ba980c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:03:01 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b6a85474-e082-46af-9f8b-40b319ba980c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:03:04 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (b6a85474-e082-46af-9f8b-40b319ba980c)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:03:04 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 12:06:05 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:06:07 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (45003d60-cd3a-4d9e-b064-5c988d7f57fe)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:06:08 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (45003d60-cd3a-4d9e-b064-5c988d7f57fe)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:06:08 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (45003d60-cd3a-4d9e-b064-5c988d7f57fe)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:06:09 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (45003d60-cd3a-4d9e-b064-5c988d7f57fe)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:06:12 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (45003d60-cd3a-4d9e-b064-5c988d7f57fe)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:06:12 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 12:10:18 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:10:20 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (76127b4c-3b43-42d6-a7b2-0a44f3bc3d15)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:10:21 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (76127b4c-3b43-42d6-a7b2-0a44f3bc3d15)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:10:21 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (76127b4c-3b43-42d6-a7b2-0a44f3bc3d15)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:10:22 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (76127b4c-3b43-42d6-a7b2-0a44f3bc3d15)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:10:25 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (76127b4c-3b43-42d6-a7b2-0a44f3bc3d15)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:10:25 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 12:11:12 INFO  TestBase:38 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:11:14 INFO  HomePage:82 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (9f73e687-fba3-4606-a310-493209dce640)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:11:15 INFO  HomePage:85 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (9f73e687-fba3-4606-a310-493209dce640)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:11:16 INFO  HomePage:88 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (9f73e687-fba3-4606-a310-493209dce640)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:11:16 INFO  HomePage:90 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (9f73e687-fba3-4606-a310-493209dce640)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:11:19 INFO  HomePage:94 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (9f73e687-fba3-4606-a310-493209dce640)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:11:19 INFO  TestBase:44 - ----------------------Ending the Login page----------------------------
+2017-07-04 12:44:12 INFO  TestBase:59 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:44:14 INFO  HomePage:162 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (01dc9508-4db2-47e6-a08c-5964b206bcd5)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:44:14 INFO  HomePage:162 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (01dc9508-4db2-47e6-a08c-5964b206bcd5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:44:15 INFO  HomePage:162 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (01dc9508-4db2-47e6-a08c-5964b206bcd5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:44:16 INFO  HomePage:162 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (01dc9508-4db2-47e6-a08c-5964b206bcd5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:44:19 INFO  HomePage:162 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (01dc9508-4db2-47e6-a08c-5964b206bcd5)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:44:19 INFO  TestBase:59 - ----------------------Ending the Login page----------------------------
+2017-07-04 12:46:49 INFO  TC001_VerifyLoginwithInvalidCredentials:61 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-04 12:46:52 INFO  HomePage:162 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (209099de-464e-466f-b06d-81c95cc26be6)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-04 12:46:53 INFO  HomePage:162 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (209099de-464e-466f-b06d-81c95cc26be6)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-04 12:46:53 INFO  HomePage:162 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (209099de-464e-466f-b06d-81c95cc26be6)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-04 12:46:54 INFO  HomePage:162 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (209099de-464e-466f-b06d-81c95cc26be6)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-04 12:46:57 INFO  HomePage:162 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (209099de-464e-466f-b06d-81c95cc26be6)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-04 12:46:57 INFO  TC001_VerifyLoginwithInvalidCredentials:61 - ----------------------Ending the Login page----------------------------
+2017-07-05 17:06:31 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-05 17:06:35 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (8b8cd7d7-14bd-4a12-88ef-920b970e7276)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-05 17:06:36 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (8b8cd7d7-14bd-4a12-88ef-920b970e7276)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-05 17:06:36 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (8b8cd7d7-14bd-4a12-88ef-920b970e7276)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-05 17:06:36 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (8b8cd7d7-14bd-4a12-88ef-920b970e7276)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-05 17:06:40 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (8b8cd7d7-14bd-4a12-88ef-920b970e7276)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-05 17:06:40 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-05 17:06:40 INFO  TestBase:204 - Test is Ended
+2017-07-05 17:19:27 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-05 17:19:29 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (405c12a7-a2a7-40e3-ba22-8c63bed4daf1)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-05 17:19:30 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (405c12a7-a2a7-40e3-ba22-8c63bed4daf1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-05 17:19:31 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (405c12a7-a2a7-40e3-ba22-8c63bed4daf1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-05 17:19:31 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (405c12a7-a2a7-40e3-ba22-8c63bed4daf1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-05 17:19:34 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (405c12a7-a2a7-40e3-ba22-8c63bed4daf1)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-05 17:19:34 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-05 17:19:35 INFO  TestBase:204 - Test is Ended
+2017-07-05 18:14:10 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-05 18:14:12 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (46ef56ff-13e7-4b66-858c-04f3ff128d57)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-05 18:14:13 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (46ef56ff-13e7-4b66-858c-04f3ff128d57)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-05 18:14:13 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (46ef56ff-13e7-4b66-858c-04f3ff128d57)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-05 18:14:14 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (46ef56ff-13e7-4b66-858c-04f3ff128d57)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-05 18:14:17 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (46ef56ff-13e7-4b66-858c-04f3ff128d57)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-05 18:14:17 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-05 18:14:17 INFO  TestBase:200 - Test is Ended
+2017-07-05 19:19:04 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-05 19:19:06 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (0ac1a7bd-cf11-4723-b615-f25ef2112f81)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-05 19:19:07 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (0ac1a7bd-cf11-4723-b615-f25ef2112f81)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-05 19:19:07 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (0ac1a7bd-cf11-4723-b615-f25ef2112f81)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-05 19:19:08 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (0ac1a7bd-cf11-4723-b615-f25ef2112f81)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-05 19:19:11 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (0ac1a7bd-cf11-4723-b615-f25ef2112f81)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-05 19:19:11 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-05 19:19:11 INFO  TestBase:200 - Test is Ended
+2017-07-06 09:56:44 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 09:56:46 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (06ec6163-c727-46d3-a458-7353a8fd4195)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 09:56:47 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (06ec6163-c727-46d3-a458-7353a8fd4195)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 09:56:47 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (06ec6163-c727-46d3-a458-7353a8fd4195)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 09:56:48 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (06ec6163-c727-46d3-a458-7353a8fd4195)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 09:56:51 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (06ec6163-c727-46d3-a458-7353a8fd4195)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 09:56:51 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 09:56:51 INFO  TestBase:200 - Test is Ended
+2017-07-06 10:04:40 INFO  TestBase:192 - Report is Started
+2017-07-06 10:04:40 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 10:04:42 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (aa9f0d6d-906b-4c1b-b446-e6e9cd36d40c)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 10:04:43 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (aa9f0d6d-906b-4c1b-b446-e6e9cd36d40c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 10:04:43 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (aa9f0d6d-906b-4c1b-b446-e6e9cd36d40c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 10:04:44 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (aa9f0d6d-906b-4c1b-b446-e6e9cd36d40c)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 10:04:47 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (aa9f0d6d-906b-4c1b-b446-e6e9cd36d40c)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 10:04:47 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 10:04:47 INFO  TestBase:201 - Test is Ended
+2017-07-06 10:09:51 INFO  TestBase:192 - Report is Started
+2017-07-06 10:09:51 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 10:09:54 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (7d45380f-45e3-4658-86a9-5cf27d8aac68)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 10:09:55 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (7d45380f-45e3-4658-86a9-5cf27d8aac68)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 10:09:55 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (7d45380f-45e3-4658-86a9-5cf27d8aac68)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 10:09:56 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (7d45380f-45e3-4658-86a9-5cf27d8aac68)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 10:09:59 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (7d45380f-45e3-4658-86a9-5cf27d8aac68)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 10:09:59 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 10:09:59 INFO  TestBase:201 - Test is Ended
+2017-07-06 10:12:40 INFO  TestBase:192 - Report is Started
+2017-07-06 10:12:40 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 10:12:42 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (95bc1cf9-17ff-4952-ad05-abbaddc1ea61)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 10:12:43 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (95bc1cf9-17ff-4952-ad05-abbaddc1ea61)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 10:12:43 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (95bc1cf9-17ff-4952-ad05-abbaddc1ea61)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 10:12:44 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (95bc1cf9-17ff-4952-ad05-abbaddc1ea61)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 10:12:47 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (95bc1cf9-17ff-4952-ad05-abbaddc1ea61)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 10:12:47 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 10:12:47 INFO  TestBase:201 - Test is Ended
+2017-07-06 10:19:55 INFO  TestBase:193 - Report is Started
+2017-07-06 10:19:55 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 10:19:57 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (d5e7cf4d-0093-4d5e-b3a9-422b888bc068)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 10:19:57 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (d5e7cf4d-0093-4d5e-b3a9-422b888bc068)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 10:19:58 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (d5e7cf4d-0093-4d5e-b3a9-422b888bc068)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 10:19:58 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (d5e7cf4d-0093-4d5e-b3a9-422b888bc068)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 10:20:01 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (d5e7cf4d-0093-4d5e-b3a9-422b888bc068)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 10:20:01 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 10:20:01 INFO  TestBase:202 - Test is Ended
+2017-07-06 10:22:01 INFO  TestBase:198 - Report is Started
+2017-07-06 10:22:01 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-06 10:22:03 INFO  HomePage:170 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (b70fed33-7dc9-4e51-9430-d684b579e154)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-06 10:22:03 INFO  HomePage:170 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (b70fed33-7dc9-4e51-9430-d684b579e154)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-06 10:22:04 INFO  HomePage:170 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (b70fed33-7dc9-4e51-9430-d684b579e154)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-06 10:22:04 INFO  HomePage:170 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (b70fed33-7dc9-4e51-9430-d684b579e154)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-06 10:22:07 INFO  HomePage:170 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (b70fed33-7dc9-4e51-9430-d684b579e154)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-06 10:22:07 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-06 10:22:07 INFO  TestBase:207 - Test is Ended
+2017-07-07 15:18:43 INFO  TestBase:198 - Report is Started
+2017-07-07 15:23:39 INFO  TestBase:198 - Report is Started
+2017-07-07 15:24:41 INFO  TestBase:207 - Test is Ended
+2017-07-07 15:26:37 INFO  TestBase:198 - Report is Started
+2017-07-07 15:27:38 INFO  TestBase:207 - Test is Ended
+2017-07-07 15:30:31 INFO  TestBase:198 - Report is Started
+2017-07-07 15:30:34 INFO  TestBase:43 - Printed Lichfield T-shirt
+2017-07-07 18:22:16 INFO  TestBase:198 - Report is Started
+2017-07-07 18:22:20 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 18:23:20 INFO  TestBase:207 - Test is Ended
+2017-07-07 18:50:55 INFO  TestBase:198 - Report is Started
+2017-07-07 18:50:59 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 19:18:23 INFO  TestBase:198 - Report is Started
+2017-07-07 19:18:23 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Starting Verifing the Login page----------------------------
+2017-07-07 19:18:26 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (3fd1729b-3817-4487-a7e0-273fbac4e927)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-07 19:18:28 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (3fd1729b-3817-4487-a7e0-273fbac4e927)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-07 19:18:28 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (3fd1729b-3817-4487-a7e0-273fbac4e927)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-07 19:18:28 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (3fd1729b-3817-4487-a7e0-273fbac4e927)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-07 19:18:31 INFO  HomePage:184 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (3fd1729b-3817-4487-a7e0-273fbac4e927)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-07 19:18:32 INFO  TC001_VerifyLoginwithInvalidCredentials:55 - ----------------------Ending the Login page----------------------------
+2017-07-07 19:18:32 INFO  TestBase:207 - Test is Ended
+2017-07-07 19:19:07 INFO  TestBase:198 - Report is Started
+2017-07-07 19:19:10 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 19:19:11 INFO  TestBase:44 - Printed Varsity T-Shirt
+2017-07-07 19:19:11 INFO  TestBase:44 - Printed T-shirt
+2017-07-07 19:19:11 INFO  TestBase:44 - Melange Striped T-shirt
+2017-07-07 19:19:12 INFO  TestBase:44 - Melange Striped Lewis T-shirt
+2017-07-07 19:20:14 INFO  TestBase:207 - Test is Ended
+2017-07-07 19:40:00 INFO  TestBase:198 - Report is Started
+2017-07-07 19:40:03 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 19:40:03 INFO  TestBase:44 - Printed Varsity T-Shirt
+2017-07-07 19:40:03 INFO  TestBase:44 - Melange Striped Lewis T-shirt
+2017-07-07 19:40:58 INFO  RetryExec:96 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2017-07-07 19:40:58 INFO  RetryExec:112 - Retrying request to {}->http://127.0.0.1:7055
+2017-07-07 22:08:57 INFO  TestBase:198 - Report is Started
+2017-07-07 22:09:00 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 22:09:01 INFO  TestBase:44 - Printed Varsity T-Shirt
+2017-07-07 22:09:01 INFO  TestBase:44 - Printed T-shirt
+2017-07-07 22:09:02 INFO  TestBase:44 - Melange Striped Lewis T-shirt
+2017-07-07 22:12:23 INFO  TestBase:198 - Report is Started
+2017-07-07 22:12:26 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 22:12:26 INFO  TestBase:44 - Printed Varsity T-Shirt
+2017-07-07 22:12:26 INFO  TestBase:44 - Printed T-shirt
+2017-07-07 22:12:26 INFO  TestBase:44 - Melange Striped T-shirt
+2017-07-07 22:12:26 INFO  TestBase:44 - Melange Striped Lewis T-shirt
+2017-07-07 22:14:21 INFO  RetryExec:96 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2017-07-07 22:14:21 INFO  RetryExec:112 - Retrying request to {}->http://127.0.0.1:7055
+2017-07-07 22:16:22 INFO  TestBase:198 - Report is Started
+2017-07-07 22:16:30 INFO  TestBase:44 - Printed Lichfield T-shirt
+2017-07-07 22:17:34 INFO  TestBase:207 - Test is Ended
+2017-07-07 22:45:42 INFO  TestBase:198 - Report is Started
+2017-07-07 22:45:42 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-07 22:45:48 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-07 22:45:49 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-07 22:45:50 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-07 22:45:50 INFO  TestBase:198 - Report is Started
+2017-07-07 22:45:50 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-07 22:45:52 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-07 22:45:53 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-07 22:45:53 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-07 22:45:53 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (4b8467ac-6de0-4514-ba57-372a5b4ab112)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-07 22:49:23 INFO  TestBase:198 - Report is Started
+2017-07-07 22:49:23 INFO  TC001_Add_ProjectsToCart:47 - =============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================
+2017-07-07 22:49:30 INFO  ListingPage:92 - Project Name is :Printed Lichfield T-shirt
+2017-07-07 22:49:30 INFO  ListingPage:92 - Cursor is moved into given element object name is :[[FirefoxDriver: firefox on WINDOWS (bc99161e-9db4-43c7-b7a3-14b82eb19d24)] -> xpath: //*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2]
+2017-07-07 22:49:33 INFO  ListingPage:92 - Clicked on the given element.Object name is :[[FirefoxDriver: firefox on WINDOWS (bc99161e-9db4-43c7-b7a3-14b82eb19d24)] -> xpath: //span[@class='product-actionsButton product-addToBag']/span]
+2017-07-07 22:50:33 INFO  ListingPage:92 - Different shirt size available is :0
+2017-07-07 22:50:33 INFO  TC001_Add_ProjectsToCart:47 - =============ENDING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================
+2017-07-07 22:50:33 INFO  TestBase:207 - Test is Ended
+2017-07-07 22:58:58 INFO  TestBase:198 - Report is Started
+2017-07-07 22:58:58 INFO  TC001_Add_ProjectsToCart:47 - =============STARTING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@2e6a5539================
+2017-07-07 22:59:04 INFO  ListingPage:92 - Project Name is :Printed Lichfield T-shirt
+2017-07-07 22:59:04 INFO  ListingPage:92 - Cursor is moved into given element object name is :[[FirefoxDriver: firefox on WINDOWS (880c281a-27d3-46b1-8331-57e4e07e48fc)] -> xpath: //*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2]
+2017-07-07 22:59:07 INFO  ListingPage:92 - Clicked on add cart button in project tail.Object name is :[[FirefoxDriver: firefox on WINDOWS (880c281a-27d3-46b1-8331-57e4e07e48fc)] -> xpath: //span[@class='product-actionsButton product-addToBag']/span]
+2017-07-07 22:59:07 INFO  ListingPage:92 - Different shirt size available is :4
+2017-07-07 22:59:08 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:08 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:09 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:09 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:10 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:10 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:10 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 22:59:11 INFO  ListingPage:92 - Select the Size of the shirts:M
+2017-07-07 23:01:47 INFO  TestBase:198 - Report is Started
+2017-07-07 23:01:47 INFO  TC001_Add_ProjectsToCart:47 - =============STARTING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@2e6a5539================
+2017-07-07 23:01:51 INFO  ListingPage:94 - Project Name is :Printed Lichfield T-shirt
+2017-07-07 23:01:51 INFO  ListingPage:94 - Cursor is moved into given element object name is :[[FirefoxDriver: firefox on WINDOWS (bc46cafa-3513-4238-b720-b79b9cc03794)] -> xpath: //*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2]
+2017-07-07 23:01:54 INFO  ListingPage:94 - Clicked on add cart button in project tail.Object name is :[[FirefoxDriver: firefox on WINDOWS (bc46cafa-3513-4238-b720-b79b9cc03794)] -> xpath: //span[@class='product-actionsButton product-addToBag']/span]
+2017-07-07 23:01:54 INFO  ListingPage:94 - Different shirt size available is :4
+2017-07-07 23:01:54 INFO  ListingPage:94 - Select the Size of the shirts:M
+2017-07-07 23:01:54 INFO  TC001_Add_ProjectsToCart:47 - =============ENDING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@517d4a0d================
+2017-07-07 23:01:54 INFO  TestBase:207 - Test is Ended
+2017-07-08 19:08:02 INFO  TestBase:198 - Report is Started
+2017-07-08 19:08:02 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:08:07 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (c8110377-a6b3-4600-a13d-418a68e072e1)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:08:08 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (c8110377-a6b3-4600-a13d-418a68e072e1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:08:08 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (c8110377-a6b3-4600-a13d-418a68e072e1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:08:09 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (c8110377-a6b3-4600-a13d-418a68e072e1)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:10:51 INFO  TestBase:198 - Report is Started
+2017-07-08 19:10:51 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:11:42 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (f2fd216c-4a61-43ca-8162-54d0a4b8d761)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:11:43 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (f2fd216c-4a61-43ca-8162-54d0a4b8d761)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:11:43 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (f2fd216c-4a61-43ca-8162-54d0a4b8d761)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:11:44 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (f2fd216c-4a61-43ca-8162-54d0a4b8d761)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:19:02 INFO  TestBase:198 - Report is Started
+2017-07-08 19:19:02 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:19:04 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:19:05 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:19:05 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:19:06 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:22:06 INFO  TestBase:198 - Report is Started
+2017-07-08 19:22:06 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:22:09 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:22:09 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:22:10 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:22:10 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:25:10 INFO  TestBase:198 - Report is Started
+2017-07-08 19:25:10 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:25:14 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:25:14 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:25:14 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:25:15 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:28:16 INFO  TestBase:198 - Report is Started
+2017-07-08 19:28:16 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:28:19 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:28:19 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:28:20 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:28:20 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-08 19:31:21 INFO  TestBase:198 - Report is Started
+2017-07-08 19:31:21 INFO  TC003_VerifyLoginWithDifferentRecords:75 - --------------Starting login with Different Records------------------
+2017-07-08 19:31:24 INFO  HomePage:184 - Clicked on the login label and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]
+2017-07-08 19:31:24 INFO  HomePage:184 - Enter email address and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-08 19:31:25 INFO  HomePage:184 - Enter Password  and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-08 19:31:25 INFO  HomePage:184 - Clicked the Login button and Object is :[[FirefoxDriver: firefox on WINDOWS (732292b9-5b85-4e4a-92a4-a67c24088c9f)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 10:07:57 INFO  TestBase:198 - Report is Started
+2017-07-10 10:07:57 INFO  TC001_Add_ProjectsToCart:47 - =============STARTING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@2e6a5539================
+2017-07-10 10:08:00 INFO  ListingPage:120 - Project Name is :Polo T-Shirt
+2017-07-10 10:08:01 INFO  ListingPage:120 - Project Name is :Printed Varsity T-Shirt
+2017-07-10 10:08:01 INFO  ListingPage:120 - Project Name is :Printed Lichfield T-shirt
+2017-07-10 10:08:01 INFO  ListingPage:120 - Cursor is moved into given element object name is :[[FirefoxDriver: firefox on WINDOWS (8527a309-3368-4a8a-bb63-426ba39a3e39)] -> xpath: //*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2]
+2017-07-10 10:09:06 INFO  TestBase:207 - Test is Ended
+2017-07-10 10:20:29 INFO  TestBase:198 - Report is Started
+2017-07-10 10:20:29 INFO  TC001_Add_ProjectsToCart:47 - =============STARTING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@2e6a5539================
+2017-07-10 10:20:33 INFO  ListingPage:120 - Project Name is :Polo T-Shirt
+2017-07-10 10:20:34 INFO  ListingPage:120 - Project Name is :Printed Varsity T-Shirt
+2017-07-10 10:20:34 INFO  ListingPage:120 - Project Name is :Printed Lichfield T-shirt
+2017-07-10 10:20:34 INFO  ListingPage:120 - Cursor is moved into given element object name is :[[FirefoxDriver: firefox on WINDOWS (1cd0fd79-a06e-40ea-ab5a-a48207d4d284)] -> xpath: //*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2]
+2017-07-10 10:21:02 INFO  ListingPage:120 - Clicked on add cart button in project tail.Object name is :[[FirefoxDriver: firefox on WINDOWS (1cd0fd79-a06e-40ea-ab5a-a48207d4d284)] -> xpath: //span[@class='product-actionsButton product-addToBag']/span]
+2017-07-10 10:21:02 INFO  ListingPage:120 - Different shirt size available is :3
+2017-07-10 10:21:02 INFO  ListingPage:120 - Select the Size of the shirts:
+2017-07-10 10:21:02 INFO  ListingPage:120 - Select the Size of the shirts:
+2017-07-10 10:21:02 INFO  ListingPage:120 - Select the Size of the shirts:
+2017-07-10 10:21:02 INFO  TC001_Add_ProjectsToCart:47 - =============ENDING TEST->>>>>TEST NAME IS :[Ljava.lang.reflect.Method;@512535ff================
+2017-07-10 10:21:02 INFO  TestBase:207 - Test is Ended
+2017-07-10 10:40:25 INFO  TestBase:198 - Report is Started
+2017-07-10 10:40:31 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 10:40:32 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 10:40:33 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 10:40:33 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 10:40:35 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 10:40:36 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 10:40:36 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 10:40:37 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 10:40:38 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 10:40:39 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 10:40:40 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 10:40:40 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 10:40:41 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 10:40:42 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-844
+2017-07-10 10:40:43 INFO  ListingPage:120 - PUMA Men Black Active T-shirt-2999
+2017-07-10 10:40:43 INFO  ListingPage:120 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 10:40:44 INFO  ListingPage:120 - Printed AFC Cup Replica T-shirt-2469
+2017-07-10 10:40:45 INFO  ListingPage:120 - AFC Away Replica T-shirt-2469
+2017-07-10 10:41:20 INFO  ProjectViewPage:75 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (ef972f3c-f73b-4009-a347-4ae7abf3421d)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 10:41:20 INFO  ProjectViewPage:75 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (ef972f3c-f73b-4009-a347-4ae7abf3421d)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 10:41:22 INFO  TestBase:207 - Test is Ended
+2017-07-10 10:52:40 INFO  TestBase:198 - Report is Started
+2017-07-10 10:52:43 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 10:52:44 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 10:52:45 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 10:52:45 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 10:52:46 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 10:52:47 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 10:52:47 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 10:52:48 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 10:52:49 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 10:52:49 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 10:52:50 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 10:52:51 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 10:52:51 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-844
+2017-07-10 10:52:52 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 10:52:53 INFO  ListingPage:120 - PUMA Men Black Active T-shirt-2999
+2017-07-10 10:52:53 INFO  ListingPage:120 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 10:52:54 INFO  ListingPage:120 - Printed AFC Cup Replica T-shirt-2469
+2017-07-10 10:52:55 INFO  ListingPage:120 - AFC Away Replica T-shirt-2469
+2017-07-10 10:52:59 INFO  ProjectViewPage:75 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (dce98e46-cd98-4f65-b994-06eeed666cfd)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 10:52:59 INFO  ProjectViewPage:75 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (dce98e46-cd98-4f65-b994-06eeed666cfd)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 10:52:59 INFO  ProjectViewPage:75 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (dce98e46-cd98-4f65-b994-06eeed666cfd)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 10:53:00 INFO  ProjectViewPage:75 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (dce98e46-cd98-4f65-b994-06eeed666cfd)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 10:53:03 INFO  ProjectViewPage:75 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (dce98e46-cd98-4f65-b994-06eeed666cfd)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 10:53:06 INFO  TestBase:207 - Test is Ended
+2017-07-10 12:00:03 INFO  TestBase:198 - Report is Started
+2017-07-10 12:00:07 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 12:00:08 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 12:00:08 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 12:00:09 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 12:00:10 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 12:00:10 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 12:03:39 INFO  TestBase:198 - Report is Started
+2017-07-10 12:03:42 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 12:03:43 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 12:03:44 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 12:03:45 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 12:03:45 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 12:03:46 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 12:03:47 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 12:03:47 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 12:03:48 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 12:03:49 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 12:03:49 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 12:03:50 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 12:03:51 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 12:03:52 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-844
+2017-07-10 12:03:52 INFO  ListingPage:120 - PUMA Men Black Active T-shirt-2999
+2017-07-10 12:03:53 INFO  ListingPage:120 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 12:03:54 INFO  ListingPage:120 - Printed AFC Cup Replica T-shirt-2469
+2017-07-10 12:03:54 INFO  ListingPage:120 - AFC Away Replica T-shirt-2469
+2017-07-10 12:04:01 INFO  ProjectViewPage:75 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (30641b05-3bb9-4fed-95c8-3d982253e110)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 12:04:01 INFO  ProjectViewPage:75 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (30641b05-3bb9-4fed-95c8-3d982253e110)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 12:04:01 INFO  ProjectViewPage:75 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (30641b05-3bb9-4fed-95c8-3d982253e110)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 12:04:02 INFO  ProjectViewPage:75 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (30641b05-3bb9-4fed-95c8-3d982253e110)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 12:04:06 INFO  ProjectViewPage:75 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (30641b05-3bb9-4fed-95c8-3d982253e110)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 12:04:06 INFO  TestBase:207 - Test is Ended
+2017-07-10 12:06:32 INFO  TestBase:198 - Report is Started
+2017-07-10 12:06:36 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 12:06:37 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 12:06:37 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 12:06:38 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 12:06:39 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 12:06:39 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 12:06:40 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 12:06:41 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 12:06:41 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 12:06:42 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 12:06:43 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 12:06:44 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 12:06:44 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 12:06:45 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-844
+2017-07-10 12:06:46 INFO  ListingPage:120 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 12:06:47 INFO  ListingPage:120 - PUMA Men Black Active T-shirt-2999
+2017-07-10 12:06:47 INFO  ListingPage:120 - Printed AFC Cup Replica T-shirt-2469
+2017-07-10 12:06:48 INFO  ListingPage:120 - AFC Away Replica T-shirt-2469
+2017-07-10 12:07:05 INFO  ProjectViewPage:75 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (46e510e7-902a-4c0c-b0f8-3a3981f8cc14)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 12:07:06 INFO  ProjectViewPage:75 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (46e510e7-902a-4c0c-b0f8-3a3981f8cc14)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 12:07:06 INFO  ProjectViewPage:75 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (46e510e7-902a-4c0c-b0f8-3a3981f8cc14)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 12:07:06 INFO  ProjectViewPage:75 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (46e510e7-902a-4c0c-b0f8-3a3981f8cc14)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 12:07:11 INFO  ProjectViewPage:75 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (46e510e7-902a-4c0c-b0f8-3a3981f8cc14)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 12:07:11 INFO  TestBase:207 - Test is Ended
+2017-07-10 13:09:43 INFO  TestBase:198 - Report is Started
+2017-07-10 13:09:47 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 13:09:47 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 13:09:48 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 13:09:49 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 13:09:49 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 13:09:50 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:09:51 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 13:09:52 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 13:09:52 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 13:09:53 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 13:09:54 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 13:09:54 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 13:09:55 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 13:09:56 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 13:12:01 INFO  TestBase:198 - Report is Started
+2017-07-10 13:13:27 INFO  TestBase:198 - Report is Started
+2017-07-10 13:19:27 INFO  RetryExec:96 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2017-07-10 13:19:27 INFO  RetryExec:112 - Retrying request to {}->http://127.0.0.1:7055
+2017-07-10 13:23:04 INFO  TestBase:198 - Report is Started
+2017-07-10 13:23:08 INFO  ListingPage:120 - Polo T-Shirt-799
+2017-07-10 13:23:08 INFO  ListingPage:120 - Printed Varsity T-Shirt-844
+2017-07-10 13:23:09 INFO  ListingPage:120 - Printed Lichfield T-shirt-1996
+2017-07-10 13:23:10 INFO  ListingPage:120 - Printed T-shirt-1836
+2017-07-10 13:23:10 INFO  ListingPage:120 - Melange Striped T-shirt-1996
+2017-07-10 13:23:11 INFO  ListingPage:120 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:23:12 INFO  ListingPage:120 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 13:23:12 INFO  ListingPage:120 - UNCTL T-shirt-1249
+2017-07-10 13:23:13 INFO  ListingPage:120 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 13:23:14 INFO  ListingPage:120 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 13:23:14 INFO  ListingPage:120 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 13:23:15 INFO  ListingPage:120 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 13:23:16 INFO  ListingPage:120 - Striped Jersey Polo T-shirt-1169
+2017-07-10 13:23:17 INFO  ListingPage:120 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 13:23:17 INFO  ListingPage:120 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 13:23:18 INFO  ListingPage:120 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 13:23:19 INFO  ListingPage:120 - PUMA Men Black Active T-shirt-2999
+2017-07-10 13:38:38 INFO  TestBase:198 - Report is Started
+2017-07-10 13:38:42 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 13:38:42 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 13:38:43 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 13:38:44 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 13:38:45 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:38:48 INFO  TestBase:207 - Test is Ended
+2017-07-10 13:40:57 INFO  TestBase:198 - Report is Started
+2017-07-10 13:41:01 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 13:41:02 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 13:41:03 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 13:41:03 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 13:41:04 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 13:41:05 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:41:06 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 13:41:06 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 13:41:07 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 13:41:08 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 13:41:09 INFO  ListingPage:126 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 13:41:09 INFO  ListingPage:126 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 13:41:10 INFO  ListingPage:126 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 13:41:11 INFO  ListingPage:126 - Striped Jersey Polo T-shirt-1169
+2017-07-10 13:41:12 INFO  ListingPage:126 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 13:41:12 INFO  ListingPage:126 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 13:42:17 INFO  TestBase:198 - Report is Started
+2017-07-10 13:42:21 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 13:42:21 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 13:42:22 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 13:42:23 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 13:42:23 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 13:42:24 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:42:25 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 13:42:26 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 13:42:27 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 13:42:28 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 13:42:28 INFO  ListingPage:126 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 13:42:29 INFO  ListingPage:126 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 13:42:30 INFO  ListingPage:126 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 13:42:31 INFO  ListingPage:126 - Striped Jersey Polo T-shirt-1169
+2017-07-10 13:42:31 INFO  ListingPage:126 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 13:42:32 INFO  ListingPage:126 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 13:42:33 INFO  ListingPage:126 - PUMA Men Black Active T-shirt-2999
+2017-07-10 13:42:33 INFO  ListingPage:126 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 13:42:34 INFO  ListingPage:126 - AFC Away Replica T-shirt-2469
+2017-07-10 13:42:38 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (e6679254-3320-4ec6-8c2d-8d64ec2de966)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 13:42:38 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (e6679254-3320-4ec6-8c2d-8d64ec2de966)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 13:42:39 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (e6679254-3320-4ec6-8c2d-8d64ec2de966)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 13:42:39 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (e6679254-3320-4ec6-8c2d-8d64ec2de966)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 13:42:44 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (e6679254-3320-4ec6-8c2d-8d64ec2de966)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 13:42:50 INFO  TestBase:207 - Test is Ended
+2017-07-10 13:46:50 INFO  TestBase:198 - Report is Started
+2017-07-10 13:46:54 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 13:46:54 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 13:46:55 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 13:46:56 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 13:46:56 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 13:48:52 INFO  TestBase:198 - Report is Started
+2017-07-10 13:48:56 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 13:48:56 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 13:48:57 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 13:48:58 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 13:48:58 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 13:48:59 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 13:49:00 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 13:49:01 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 13:49:02 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 13:49:02 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:05:46 INFO  TestBase:198 - Report is Started
+2017-07-10 15:05:50 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 15:05:51 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 15:05:51 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 15:05:52 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 15:05:53 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 15:05:53 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:05:54 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:05:55 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 15:05:56 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:05:56 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:05:57 INFO  ListingPage:126 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:05:58 INFO  ListingPage:126 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:05:58 INFO  ListingPage:126 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:05:59 INFO  ListingPage:126 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:06:00 INFO  ListingPage:126 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:06:00 INFO  ListingPage:126 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:06:01 INFO  ListingPage:126 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:06:02 INFO  ListingPage:126 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:06:03 INFO  ListingPage:126 - AFC Away Replica T-shirt-2469
+2017-07-10 15:06:11 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (81cf9671-0522-4915-9b37-47aff501ba3b)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 15:06:11 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (81cf9671-0522-4915-9b37-47aff501ba3b)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 15:06:11 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (81cf9671-0522-4915-9b37-47aff501ba3b)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:06:12 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (81cf9671-0522-4915-9b37-47aff501ba3b)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:06:13 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (81cf9671-0522-4915-9b37-47aff501ba3b)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 15:06:21 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:08:30 INFO  TestBase:198 - Report is Started
+2017-07-10 15:08:34 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 15:08:34 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 15:08:35 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 15:08:36 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 15:08:36 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 15:08:37 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:08:38 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:08:38 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 15:08:39 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:08:40 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:08:41 INFO  ListingPage:126 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:08:41 INFO  ListingPage:126 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:08:42 INFO  ListingPage:126 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:08:43 INFO  ListingPage:126 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:08:43 INFO  ListingPage:126 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:08:44 INFO  ListingPage:126 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:08:45 INFO  ListingPage:126 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:08:45 INFO  ListingPage:126 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:08:46 INFO  ListingPage:126 - AFC Away Replica T-shirt-2469
+2017-07-10 15:08:51 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (1f609350-69b6-4934-b43f-bf30be1d0267)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 15:08:51 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (1f609350-69b6-4934-b43f-bf30be1d0267)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 15:08:51 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (1f609350-69b6-4934-b43f-bf30be1d0267)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:08:52 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (1f609350-69b6-4934-b43f-bf30be1d0267)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:08:56 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (1f609350-69b6-4934-b43f-bf30be1d0267)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 15:09:02 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:11:58 INFO  TestBase:198 - Report is Started
+2017-07-10 15:12:01 INFO  ListingPage:126 - Polo T-Shirt-799
+2017-07-10 15:12:02 INFO  ListingPage:126 - Printed Varsity T-Shirt-844
+2017-07-10 15:12:03 INFO  ListingPage:126 - Printed Lichfield T-shirt-1996
+2017-07-10 15:12:03 INFO  ListingPage:126 - Printed T-shirt-1836
+2017-07-10 15:12:04 INFO  ListingPage:126 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:12:04 INFO  ListingPage:126 - Melange Striped T-shirt-1996
+2017-07-10 15:12:05 INFO  ListingPage:126 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:12:06 INFO  ListingPage:126 - UNCTL T-shirt-1249
+2017-07-10 15:12:06 INFO  ListingPage:126 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:12:07 INFO  ListingPage:126 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:12:08 INFO  ListingPage:126 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:12:08 INFO  ListingPage:126 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:12:09 INFO  ListingPage:126 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:12:10 INFO  ListingPage:126 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:12:10 INFO  ListingPage:126 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:12:11 INFO  ListingPage:126 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:12:12 INFO  ListingPage:126 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:12:12 INFO  ListingPage:126 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:16:02 INFO  TestBase:198 - Report is Started
+2017-07-10 15:18:24 INFO  TestBase:198 - Report is Started
+2017-07-10 15:18:29 INFO  ListingPage:128 - Polo T-Shirt-799
+2017-07-10 15:18:29 INFO  ListingPage:128 - Printed Varsity T-Shirt-844
+2017-07-10 15:18:30 INFO  ListingPage:128 - Printed Lichfield T-shirt-1996
+2017-07-10 15:18:31 INFO  ListingPage:128 - Printed T-shirt-1836
+2017-07-10 15:18:31 INFO  ListingPage:128 - Melange Striped T-shirt-1996
+2017-07-10 15:18:32 INFO  ListingPage:128 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:18:32 INFO  ListingPage:128 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:18:33 INFO  ListingPage:128 - UNCTL T-shirt-1249
+2017-07-10 15:18:34 INFO  ListingPage:128 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:18:34 INFO  ListingPage:128 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:18:35 INFO  ListingPage:128 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:18:36 INFO  ListingPage:128 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:18:37 INFO  ListingPage:128 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:18:37 INFO  ListingPage:128 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:18:38 INFO  ListingPage:128 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:18:39 INFO  ListingPage:128 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:18:39 INFO  ListingPage:128 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:18:42 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:21:23 INFO  TestBase:198 - Report is Started
+2017-07-10 15:21:27 INFO  ListingPage:128 - Polo T-Shirt-799
+2017-07-10 15:21:28 INFO  ListingPage:128 - Printed Varsity T-Shirt-844
+2017-07-10 15:23:24 INFO  TestBase:198 - Report is Started
+2017-07-10 15:23:29 INFO  ListingPage:131 - Polo T-Shirt-799
+2017-07-10 15:23:31 INFO  ListingPage:131 - Printed Varsity T-Shirt-844
+2017-07-10 15:23:32 INFO  ListingPage:131 - Printed Lichfield T-shirt-1996
+2017-07-10 15:23:34 INFO  ListingPage:131 - Printed T-shirt-1836
+2017-07-10 15:23:36 INFO  ListingPage:131 - Melange Striped T-shirt-1996
+2017-07-10 15:23:38 INFO  ListingPage:131 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:23:39 INFO  ListingPage:131 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:23:41 INFO  ListingPage:131 - UNCTL T-shirt-1249
+2017-07-10 15:23:43 INFO  ListingPage:131 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:23:44 INFO  ListingPage:131 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:23:46 INFO  ListingPage:131 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:23:48 INFO  ListingPage:131 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:23:50 INFO  ListingPage:131 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:23:51 INFO  ListingPage:131 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:23:53 INFO  ListingPage:131 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:23:55 INFO  ListingPage:131 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:23:56 INFO  ListingPage:131 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:23:58 INFO  ListingPage:131 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:23:59 INFO  ListingPage:131 - AFC Away Replica T-shirt-2469
+2017-07-10 15:24:01 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:25:06 INFO  TestBase:198 - Report is Started
+2017-07-10 15:25:12 INFO  ListingPage:131 - Polo T-Shirt-799
+2017-07-10 15:25:13 INFO  ListingPage:131 - Printed Varsity T-Shirt-844
+2017-07-10 15:25:15 INFO  ListingPage:131 - Printed Lichfield T-shirt-1996
+2017-07-10 15:25:16 INFO  ListingPage:131 - Printed T-shirt-1836
+2017-07-10 15:25:18 INFO  ListingPage:131 - Melange Striped T-shirt-1996
+2017-07-10 15:25:19 INFO  ListingPage:131 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:25:21 INFO  ListingPage:131 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:25:22 INFO  ListingPage:131 - UNCTL T-shirt-1249
+2017-07-10 15:25:24 INFO  ListingPage:131 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:25:25 INFO  ListingPage:131 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:25:27 INFO  ListingPage:131 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:25:28 INFO  ListingPage:131 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:25:29 INFO  ListingPage:131 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:25:31 INFO  ListingPage:131 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:25:32 INFO  ListingPage:131 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:25:34 INFO  ListingPage:131 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:25:35 INFO  ListingPage:131 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:25:37 INFO  ListingPage:131 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:25:38 INFO  ListingPage:131 - AFC Away Replica T-shirt-2469
+2017-07-10 15:25:42 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (a58575f7-48c9-4b26-bb82-bc78de176372)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 15:25:42 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (a58575f7-48c9-4b26-bb82-bc78de176372)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 15:25:43 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (a58575f7-48c9-4b26-bb82-bc78de176372)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:25:43 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (a58575f7-48c9-4b26-bb82-bc78de176372)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:25:47 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (a58575f7-48c9-4b26-bb82-bc78de176372)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 15:25:53 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:28:06 INFO  TestBase:198 - Report is Started
+2017-07-10 15:28:11 INFO  ListingPage:131 - Polo T-Shirt-799
+2017-07-10 15:28:12 INFO  ListingPage:131 - Printed Varsity T-Shirt-844
+2017-07-10 15:28:14 INFO  ListingPage:131 - Printed Lichfield T-shirt-1996
+2017-07-10 15:28:15 INFO  ListingPage:131 - Printed T-shirt-1836
+2017-07-10 15:28:17 INFO  ListingPage:131 - Melange Striped T-shirt-1996
+2017-07-10 15:28:18 INFO  ListingPage:131 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:28:20 INFO  ListingPage:131 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:28:21 INFO  ListingPage:131 - UNCTL T-shirt-1249
+2017-07-10 15:28:23 INFO  ListingPage:131 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:28:24 INFO  ListingPage:131 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:28:26 INFO  ListingPage:131 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:28:27 INFO  ListingPage:131 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:28:29 INFO  ListingPage:131 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:28:30 INFO  ListingPage:131 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:28:32 INFO  ListingPage:131 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:28:33 INFO  ListingPage:131 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:28:35 INFO  ListingPage:131 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:28:36 INFO  ListingPage:131 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:28:38 INFO  ListingPage:131 - AFC Away Replica T-shirt-2469
+2017-07-10 15:28:47 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (6ed19de6-400b-48be-861d-7195584e16e3)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 15:28:47 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (6ed19de6-400b-48be-861d-7195584e16e3)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 15:28:48 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (6ed19de6-400b-48be-861d-7195584e16e3)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:28:48 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (6ed19de6-400b-48be-861d-7195584e16e3)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:28:52 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (6ed19de6-400b-48be-861d-7195584e16e3)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 15:29:03 INFO  TestBase:207 - Test is Ended
+2017-07-10 15:32:20 INFO  TestBase:198 - Report is Started
+2017-07-10 15:32:25 INFO  ListingPage:131 - Polo T-Shirt-799
+2017-07-10 15:32:26 INFO  ListingPage:131 - Printed Varsity T-Shirt-844
+2017-07-10 15:32:27 INFO  ListingPage:131 - Printed Lichfield T-shirt-1996
+2017-07-10 15:32:29 INFO  ListingPage:131 - Melange Striped T-shirt-1996
+2017-07-10 15:32:30 INFO  ListingPage:131 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:32:31 INFO  ListingPage:131 - Printed T-shirt-1836
+2017-07-10 15:32:32 INFO  ListingPage:131 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:32:33 INFO  ListingPage:131 - UNCTL T-shirt-1249
+2017-07-10 15:32:34 INFO  ListingPage:131 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:32:36 INFO  ListingPage:131 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:32:37 INFO  ListingPage:131 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:32:38 INFO  ListingPage:131 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:32:39 INFO  ListingPage:131 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:32:40 INFO  ListingPage:131 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:32:41 INFO  ListingPage:131 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:32:43 INFO  ListingPage:131 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:32:44 INFO  ListingPage:131 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:34:13 INFO  TestBase:198 - Report is Started
+2017-07-10 15:34:20 INFO  ListingPage:131 - Polo T-Shirt-799
+2017-07-10 15:34:22 INFO  ListingPage:131 - Printed Varsity T-Shirt-844
+2017-07-10 15:34:23 INFO  ListingPage:131 - Printed Lichfield T-shirt-1996
+2017-07-10 15:34:25 INFO  ListingPage:131 - Printed T-shirt-1836
+2017-07-10 15:34:26 INFO  ListingPage:131 - Melange Striped T-shirt-1996
+2017-07-10 15:34:28 INFO  ListingPage:131 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:35:47 INFO  TestBase:198 - Report is Started
+2017-07-10 15:35:53 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 15:35:54 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 15:35:56 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 15:35:57 INFO  ListingPage:129 - Melange Striped T-shirt-1996
+2017-07-10 15:35:58 INFO  ListingPage:129 - Printed T-shirt-1836
+2017-07-10 15:36:00 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 15:36:01 INFO  ListingPage:129 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 15:36:03 INFO  ListingPage:129 - UNCTL T-shirt-1249
+2017-07-10 15:36:04 INFO  ListingPage:129 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 15:36:06 INFO  ListingPage:129 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 15:36:07 INFO  ListingPage:129 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 15:36:09 INFO  ListingPage:129 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 15:36:10 INFO  ListingPage:129 - Striped Jersey Polo T-shirt-1169
+2017-07-10 15:36:12 INFO  ListingPage:129 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 15:36:13 INFO  ListingPage:129 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 15:36:15 INFO  ListingPage:129 - PUMA Men Black Active T-shirt-2999
+2017-07-10 15:36:16 INFO  ListingPage:129 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 15:36:18 INFO  ListingPage:129 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 15:36:19 INFO  ListingPage:129 - AFC Away Replica T-shirt-2469
+2017-07-10 15:36:28 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (3014a698-2df6-4d50-87bc-8deaffa75909)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 15:36:29 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (3014a698-2df6-4d50-87bc-8deaffa75909)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 15:36:29 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (3014a698-2df6-4d50-87bc-8deaffa75909)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:36:29 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (3014a698-2df6-4d50-87bc-8deaffa75909)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 15:36:33 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (3014a698-2df6-4d50-87bc-8deaffa75909)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 15:36:38 INFO  TestBase:207 - Test is Ended
+2017-07-10 16:02:28 INFO  TestBase:198 - Report is Started
+2017-07-10 16:02:34 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 16:02:35 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 16:02:37 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 16:02:38 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:03:53 INFO  TestBase:198 - Report is Started
+2017-07-10 16:03:58 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 16:04:00 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 16:04:01 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 16:04:03 INFO  ListingPage:129 - Melange Striped T-shirt-1996
+2017-07-10 16:04:04 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:04:06 INFO  ListingPage:129 - Printed T-shirt-1836
+2017-07-10 16:05:16 INFO  TestBase:198 - Report is Started
+2017-07-10 16:05:21 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 16:05:22 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 16:05:23 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 16:05:24 INFO  ListingPage:129 - Melange Striped T-shirt-1996
+2017-07-10 16:05:25 INFO  ListingPage:129 - Printed T-shirt-1836
+2017-07-10 16:05:25 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:05:26 INFO  ListingPage:129 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 16:05:27 INFO  ListingPage:129 - UNCTL T-shirt-1249
+2017-07-10 16:05:28 INFO  ListingPage:129 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 16:05:29 INFO  ListingPage:129 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 16:05:30 INFO  ListingPage:129 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 16:05:31 INFO  ListingPage:129 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 16:11:30 INFO  TestBase:198 - Report is Started
+2017-07-10 16:12:18 INFO  TestBase:198 - Report is Started
+2017-07-10 16:12:23 INFO  ListingPage:130 - Polo T-Shirt-799
+2017-07-10 16:12:24 INFO  ListingPage:130 - Printed Varsity T-Shirt-844
+2017-07-10 16:12:25 INFO  ListingPage:130 - Printed Lichfield T-shirt-1996
+2017-07-10 16:12:26 INFO  ListingPage:130 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:13:34 INFO  TestBase:198 - Report is Started
+2017-07-10 16:13:39 INFO  ListingPage:130 - Polo T-Shirt-799
+2017-07-10 16:13:40 INFO  ListingPage:130 - Printed Varsity T-Shirt-844
+2017-07-10 16:13:41 INFO  ListingPage:130 - Printed Lichfield T-shirt-1996
+2017-07-10 16:13:42 INFO  ListingPage:130 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:13:43 INFO  ListingPage:130 - Melange Striped T-shirt-1996
+2017-07-10 16:13:45 INFO  ListingPage:130 - Printed T-shirt-1836
+2017-07-10 16:13:46 INFO  ListingPage:130 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 16:16:06 INFO  TestBase:198 - Report is Started
+2017-07-10 16:16:11 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 16:16:12 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 16:16:13 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 16:16:14 INFO  ListingPage:129 - Melange Striped T-shirt-1996
+2017-07-10 16:16:15 INFO  ListingPage:129 - Printed T-shirt-1836
+2017-07-10 16:16:16 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:16:17 INFO  ListingPage:129 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 16:16:18 INFO  ListingPage:129 - UNCTL T-shirt-1249
+2017-07-10 16:16:19 INFO  ListingPage:129 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 16:16:20 INFO  ListingPage:129 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 16:16:21 INFO  ListingPage:129 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 16:16:22 INFO  ListingPage:129 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 16:16:23 INFO  ListingPage:129 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 16:16:24 INFO  ListingPage:129 - Striped Jersey Polo T-shirt-1169
+2017-07-10 16:16:25 INFO  ListingPage:129 - PUMA Men Black Active T-shirt-2999
+2017-07-10 16:16:26 INFO  ListingPage:129 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 16:16:27 INFO  ListingPage:129 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 16:16:28 INFO  ListingPage:129 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 16:16:29 INFO  ListingPage:129 - AFC Away Replica T-shirt-2469
+2017-07-10 16:16:39 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (22514800-efe7-48bf-ad41-f2018b38cfd7)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 16:16:39 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (22514800-efe7-48bf-ad41-f2018b38cfd7)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 16:16:39 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (22514800-efe7-48bf-ad41-f2018b38cfd7)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 16:16:40 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (22514800-efe7-48bf-ad41-f2018b38cfd7)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 16:16:44 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (22514800-efe7-48bf-ad41-f2018b38cfd7)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 16:22:06 INFO  TestBase:198 - Report is Started
+2017-07-10 16:22:11 INFO  ListingPage:129 - Polo T-Shirt-799
+2017-07-10 16:22:12 INFO  ListingPage:129 - Printed Varsity T-Shirt-844
+2017-07-10 16:22:13 INFO  ListingPage:129 - Printed Lichfield T-shirt-1996
+2017-07-10 16:22:14 INFO  ListingPage:129 - Printed T-shirt-1836
+2017-07-10 16:22:15 INFO  ListingPage:129 - Melange Striped Lewis T-shirt-1836
+2017-07-10 16:22:16 INFO  ListingPage:129 - Melange Striped T-shirt-1996
+2017-07-10 16:22:17 INFO  ListingPage:129 - Adidas Blue INT Replica 30 Warriors Printed NBA Basketball Jersey-2339
+2017-07-10 16:22:18 INFO  ListingPage:129 - UNCTL T-shirt-1249
+2017-07-10 16:22:19 INFO  ListingPage:129 - Adidas Men Yellow Chelsea Football Club Printed Jersey T-shirt-3999
+2017-07-10 16:22:20 INFO  ListingPage:129 - Jockey 24 x 7 Men Grey Melange T-shirt 2726-379
+2017-07-10 16:22:21 INFO  ListingPage:129 - Adidas Lime Green Climacool Tennis Polo T-shirt-1494
+2017-07-10 16:22:22 INFO  ListingPage:129 - AS Prime Knit M Running T-shirt-3999
+2017-07-10 16:22:23 INFO  ListingPage:129 - Striped Jersey Polo T-shirt-1169
+2017-07-10 16:22:24 INFO  ListingPage:129 - PUMA Men White Graphic Printed T-shirt-909
+2017-07-10 16:22:25 INFO  ListingPage:129 - PUMA Men Black Active T-shirt-2999
+2017-07-10 16:22:26 INFO  ListingPage:129 - PUMA Men White Boris Becker Printed T-shirt-1169
+2017-07-10 16:22:27 INFO  ListingPage:129 - PUMA Men Blue Printed T-shirt-1499
+2017-07-10 16:22:28 INFO  ListingPage:129 - Printed AFC Cup Replica T-shirt-2659
+2017-07-10 16:22:28 INFO  ListingPage:129 - AFC Away Replica T-shirt-2469
+2017-07-10 16:22:34 INFO  ProjectViewPage:76 - Getting the project name in project view page. project name object is :[[FirefoxDriver: firefox on WINDOWS (e7907735-7acf-4e62-84fb-d6300215723e)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]
+2017-07-10 16:22:34 INFO  ProjectViewPage:76 - Getting the price of the project in project view page. Price object is :[[FirefoxDriver: firefox on WINDOWS (e7907735-7acf-4e62-84fb-d6300215723e)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]
+2017-07-10 16:22:35 INFO  ProjectViewPage:76 - Click on the add button with out select the size of the product Add button Object is  :[[FirefoxDriver: firefox on WINDOWS (e7907735-7acf-4e62-84fb-d6300215723e)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 16:22:35 INFO  ProjectViewPage:76 - Click on the add button before select the size of the product :[[FirefoxDriver: firefox on WINDOWS (e7907735-7acf-4e62-84fb-d6300215723e)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]
+2017-07-10 16:22:39 INFO  ProjectViewPage:76 - Verify the wishlist project count. And Wishlist Object is  :[[FirefoxDriver: firefox on WINDOWS (e7907735-7acf-4e62-84fb-d6300215723e)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]
+2017-07-10 16:22:52 INFO  TestBase:207 - Test is Ended
+2017-07-10 16:26:47 INFO  TestBase:198 - Report is Started
+2017-07-10 16:26:47 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 16:26:49 INFO  HomePage:184 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (4ffd30b6-066d-406a-8784-66b54ce98565)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 16:26:50 INFO  HomePage:184 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (4ffd30b6-066d-406a-8784-66b54ce98565)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 16:26:51 INFO  HomePage:184 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (4ffd30b6-066d-406a-8784-66b54ce98565)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 16:26:51 INFO  HomePage:184 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (4ffd30b6-066d-406a-8784-66b54ce98565)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 16:26:51 INFO  HomePage:184 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (4ffd30b6-066d-406a-8784-66b54ce98565)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 16:27:53 INFO  TestBase:207 - Test is Ended
+2017-07-10 16:34:15 INFO  TestBase:198 - Report is Started
+2017-07-10 16:34:15 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 16:34:18 INFO  HomePage:185 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (9b75a033-3d92-4f7e-803a-8794cbe63156)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 16:34:18 INFO  HomePage:185 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (9b75a033-3d92-4f7e-803a-8794cbe63156)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 16:34:19 INFO  HomePage:185 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (9b75a033-3d92-4f7e-803a-8794cbe63156)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 16:34:19 INFO  HomePage:185 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (9b75a033-3d92-4f7e-803a-8794cbe63156)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 16:34:20 INFO  HomePage:185 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (9b75a033-3d92-4f7e-803a-8794cbe63156)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 16:35:44 INFO  TestBase:198 - Report is Started
+2017-07-10 16:35:44 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 16:35:46 INFO  HomePage:185 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (155704bf-6ecf-4bd0-92d7-f433be79e11b)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 16:35:47 INFO  HomePage:185 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (155704bf-6ecf-4bd0-92d7-f433be79e11b)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 16:35:47 INFO  HomePage:185 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (155704bf-6ecf-4bd0-92d7-f433be79e11b)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 16:35:48 INFO  HomePage:185 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (155704bf-6ecf-4bd0-92d7-f433be79e11b)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 16:36:51 INFO  HomePage:185 - Clicked on SignUp button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button'
+2017-07-10 16:37:53 INFO  TestBase:207 - Test is Ended
+2017-07-10 16:49:49 INFO  TestBase:198 - Report is Started
+2017-07-10 16:49:49 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 16:49:52 INFO  HomePage:189 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (d59b3911-3c85-4615-a492-e9137884a440)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 16:49:52 INFO  HomePage:189 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d59b3911-3c85-4615-a492-e9137884a440)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 16:49:53 INFO  HomePage:189 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d59b3911-3c85-4615-a492-e9137884a440)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 16:49:53 INFO  HomePage:189 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (d59b3911-3c85-4615-a492-e9137884a440)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 16:49:54 INFO  HomePage:189 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (d59b3911-3c85-4615-a492-e9137884a440)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 16:49:55 INFO  TestBase:207 - Test is Ended
+2017-07-10 17:06:11 INFO  TestBase:198 - Report is Started
+2017-07-10 17:06:11 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 17:06:14 INFO  HomePage:189 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (1cbc3799-8ef4-4bef-b23a-1a18deaaa05e)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 17:06:14 INFO  HomePage:189 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1cbc3799-8ef4-4bef-b23a-1a18deaaa05e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 17:06:15 INFO  HomePage:189 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1cbc3799-8ef4-4bef-b23a-1a18deaaa05e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 17:06:15 INFO  HomePage:189 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1cbc3799-8ef4-4bef-b23a-1a18deaaa05e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 17:06:16 INFO  HomePage:189 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (1cbc3799-8ef4-4bef-b23a-1a18deaaa05e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 17:06:18 INFO  TestBase:207 - Test is Ended
+2017-07-10 17:07:07 INFO  TestBase:198 - Report is Started
+2017-07-10 17:07:07 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 17:07:10 INFO  HomePage:189 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (dd19e407-c58d-454a-b9e1-3383f0b578b5)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 17:07:10 INFO  HomePage:189 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (dd19e407-c58d-454a-b9e1-3383f0b578b5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 17:07:11 INFO  HomePage:189 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (dd19e407-c58d-454a-b9e1-3383f0b578b5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 17:07:11 INFO  HomePage:189 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (dd19e407-c58d-454a-b9e1-3383f0b578b5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 17:07:12 INFO  HomePage:189 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (dd19e407-c58d-454a-b9e1-3383f0b578b5)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 17:07:12 INFO  TestBase:207 - Test is Ended
+2017-07-10 17:52:03 INFO  TestBase:198 - Report is Started
+2017-07-10 17:52:03 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 17:52:06 INFO  HomePage:197 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (e38240a4-3dba-419e-92bb-5bf28d738ac4)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 17:53:07 INFO  TestBase:198 - Report is Started
+2017-07-10 17:53:07 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 17:53:09 INFO  HomePage:197 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (20e4f923-c463-4492-b5d8-a1ad9d8e4333)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 17:53:10 INFO  HomePage:197 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (20e4f923-c463-4492-b5d8-a1ad9d8e4333)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 17:53:11 INFO  HomePage:197 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (20e4f923-c463-4492-b5d8-a1ad9d8e4333)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 17:53:11 INFO  HomePage:197 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (20e4f923-c463-4492-b5d8-a1ad9d8e4333)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 17:53:12 INFO  HomePage:197 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (20e4f923-c463-4492-b5d8-a1ad9d8e4333)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 17:53:13 INFO  TestBase:207 - Test is Ended
+2017-07-10 18:06:29 INFO  TestBase:198 - Report is Started
+2017-07-10 18:06:29 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 18:06:31 INFO  HomePage:197 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (acf2bf66-53eb-4657-af8d-de6e1888ed5e)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 18:06:32 INFO  HomePage:197 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (acf2bf66-53eb-4657-af8d-de6e1888ed5e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 18:06:33 INFO  HomePage:197 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (acf2bf66-53eb-4657-af8d-de6e1888ed5e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 18:06:33 INFO  HomePage:197 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (acf2bf66-53eb-4657-af8d-de6e1888ed5e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 18:06:34 INFO  HomePage:197 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (acf2bf66-53eb-4657-af8d-de6e1888ed5e)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 18:06:34 INFO  TestBase:207 - Test is Ended
+2017-07-10 18:08:49 INFO  TestBase:198 - Report is Started
+2017-07-10 18:08:49 INFO  TC002_VerifyNewUserRegistration:31 - --------------Starting Sign up page test-------------------- 
+2017-07-10 18:08:51 INFO  HomePage:197 - Clicked on SignUp option and object is :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[1]]
+2017-07-10 18:08:51 INFO  HomePage:197 - Entered the mobile number in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[3]/input]
+2017-07-10 18:08:52 INFO  HomePage:197 - Entered the Email address in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]
+2017-07-10 18:08:53 INFO  HomePage:197 - Entered the Password in sign up form and object is  :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]
+2017-07-10 18:08:54 INFO  HomePage:197 - Clicked on SignUp button and object is :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]
+2017-07-10 18:08:54 INFO  HomePage:197 - Verifing the Error message :[[FirefoxDriver: firefox on WINDOWS (1372e144-3d84-477a-b6eb-42483884afba)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]
+2017-07-10 18:08:54 INFO  TC002_VerifyNewUserRegistration:41 - --------------Ending Sign up page test-------------------- 
+2017-07-10 18:08:54 INFO  TestBase:207 - Test is Ended

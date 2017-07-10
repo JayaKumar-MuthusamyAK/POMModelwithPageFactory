@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+<listeners>
+<!--<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener>-->
+<!--<listener class-name="com.demo.automation.POMFramework.customListners.WebEventListnersClass"></listener> -->
+<listener class-name="com.demo.automation.POMFramework.customListners.RetryListners"></listener> 
+</listeners>
+<test name="Sign up Test">
+<classes>
+ <!--<class name="com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials"></class>--> 
+<!--<class name="com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials"></class>-->
+<class name="com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords"></class>
+</classes>
+</test>
+</suite>

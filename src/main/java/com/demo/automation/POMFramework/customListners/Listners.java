@@ -8,6 +8,7 @@ import java.util.Calendar;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -15,9 +16,8 @@ import org.testng.Reporter;
 
 import com.demo.automation.POMFramework.testBase.TestBase;
 
-public class Listners extends TestBase implements ITestListener
-{
-
+public class Listners extends TestBase implements ITestListener {
+	
 	public void onFinish(ITestContext arg0) {
 		// TODO Auto-generated method stub
 		
@@ -43,9 +43,10 @@ public class Listners extends TestBase implements ITestListener
 		
 		
 		try{
-			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath()+"//src//main//java//com//demo//automation//POMFramework//screenShot//";
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath()+"//src//main//java//com//demo//automation//POMFramework//successScreenshots//";
 			File destFile = new File((String) reportDirectory +methodName +"//FailureScreenShots//"+formater.format(calendar.getTime())+".png");
 			FileUtils.copyFile(scrFile, destFile);
+			Reporter.log("<a href='"+destFile.getAbsolutePath()+"'><img src='"+destFile.getAbsolutePath()+"'height ='100' widght ='100'/> </a>" );
 		}
 		catch(IOException e){
 			System.out.println(e.getMessage());
@@ -73,10 +74,11 @@ public class Listners extends TestBase implements ITestListener
 			File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 			
 			try{
-				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath()+"//src//main//java//com//demo//automation//POMFramework//successScreenshots";
+				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath()+"//src//main//java//com//demo//automation//POMFramework//successScreenshots//";
 				File destFile = new File((String) reportDirectory +methodName +"-"+formater.format(calendar.getTime())+".png");
 				
 				FileUtils.copyFile(scrFile, destFile);
+				Reporter.log("<a href='"+destFile.getAbsolutePath()+"'><img src='"+destFile.getAbsolutePath()+"'height ='100' widght ='100'/> </a>" );
 			}
 			catch(IOException e){
 				System.out.println(e.getMessage());

@@ -30,16 +30,21 @@ public class TC002_VerifyNewUserRegistration extends TestBase {
 		
 		log.info("--------------Starting Sign up page test-------------------- ");
 		homepage = new HomePage(driver);
-		homepage.new_userLogin("Jakay", "K", "984898958", "jakay555@gmail.com", "12345678", "12345678");
+		homepage.new_userLogin("jakay@gmail.com","8565146556","12345678","Male");
 		
-		Assert.assertTrue(homepage.userSignupSuccessMessage("Jakay", "K"), "Thank you for registering with CeX");
+		if(homepage.verifyEmailAlreadyExistMsgTextPresent()){
+			Assert.assertEquals(homepage.getFailedMessage(), "The email you entered already exists");
+		}
+		else if(homepage.checkLogOutbtn()){
+		Assert.assertEquals(homepage.userSignupSuccessMessage(), "jakay@gmail.com", "New User logged in SucessFully");
+		}
 		log.info("--------------Ending Sign up page test-------------------- ");
 		
 	}
 	
 	@AfterClass
 	public void endSetUp(){
-		driver.quit();
+		//driver.quit();
 	}
 
 }
