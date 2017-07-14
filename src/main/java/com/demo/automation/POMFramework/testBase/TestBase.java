@@ -205,7 +205,7 @@ public class TestBase {
 	}
 	public void closeBrowser() {
 		log.info("Test is Ended");
-		//driver.quit();
+		driver.quit();
 		report.endTest(test);
 		report.flush();
 	}
