@@ -9,8 +9,8 @@
 	</listeners>
 	<test name="Listing page verification">
 		<classes>
-			<class
-				name="com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart"></class>
+			<class name="com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart"></class>
+				<class name="com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart"></class>
 		</classes>
 	</test>
 </suite>

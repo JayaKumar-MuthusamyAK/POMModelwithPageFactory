@@ -3,6 +3,7 @@ package com.demo.automation.POMFramework.productpage;
 import java.io.IOException;
 import java.util.HashMap;
 
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -22,7 +23,7 @@ public class TC001_Add_ProjectToWishListToPayment extends TestBase {
 	String selectProjectName="Printed Lichfield T-shirt";
 	String shirt_Size = "XL";
 	String error_Text = "Please select a size";
-	
+	Actions act = null;
 	@BeforeClass
 	public void setUp() throws IOException{
 		

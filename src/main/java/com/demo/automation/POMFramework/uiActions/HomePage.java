@@ -77,10 +77,12 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//*[@id='mountRoot']/div/div/div[2]/div/div/p")
 	List<WebElement> useralreadyExist;
 
-	public HomePage(WebDriver driver) {
-		this.driver = driver;
-		PageFactory.initElements(driver, this);
 
+	public HomePage(WebDriver driver ) {
+		this.driver = driver;
+		
+		PageFactory.initElements(driver, this);
+		
 	}
 
 	public void loginToAppilcation(String email, String pwd) {
@@ -177,22 +179,25 @@ public class HomePage extends TestBase {
 		act.moveToElement(yourAccount).build().perform();
 	}
 	public void clickOnMainMenuLink(String menuname){
-		
+		log("Clicking the Main menu option. The option name is :"+menuname);
 		driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/a[contains(text(),'"+menuname+"')]")).click();
 	}
 	public void clickOnSubLink(String menuname){
-		
+		log("Clicking the Sub menu option. The option name is :"+menuname);
 		driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/div/div/ul/li/a[contains(text(),'"+menuname+"')]")).click();
 	}
 	public void moveMouseMainMenu(String menuname){
 		
+		//System.out.println(driver);
+		log("Moving cursor on main menu fields :" +menuname);
 		Actions act = new Actions(driver);
 		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/a[contains(text(),'"+menuname+"')]"))).build().perform();
 	}
 
    public void moveMouseSubMenu(String menuname){
 		
-		Actions act = new Actions(driver);
+	   log("Moving cursor on sub menu fields :"+menuname);
+	   Actions act = new Actions(driver);
 		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/div/div/ul/li/a[contains(text(),'"+menuname+"')]"))).build().perform();
 	}
 	public void log(String data) {

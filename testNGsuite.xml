@@ -3,7 +3,7 @@
 <suite name="Test Suite for Myntra Website">
 <suite-files>
 <suite-file path="C:\Users\admin\housingman\workspace\POMFramework\homePageTestNG.xml"></suite-file>
-<suite-file path="C:\Users\admin\housingman\workspace\POMFramework\listingPageTestNG.xmll"></suite-file>
+<suite-file path="C:\Users\admin\housingman\workspace\POMFramework\listingPageTestNG.xml"></suite-file>
 <suite-file path="C:\Users\admin\housingman\workspace\POMFramework\shoppingpageTestNG.xml"></suite-file>
 </suite-files>
 </suite>

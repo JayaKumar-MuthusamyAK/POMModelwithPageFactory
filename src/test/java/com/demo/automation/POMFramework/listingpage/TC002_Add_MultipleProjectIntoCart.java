@@ -23,7 +23,7 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 	String categoriesName = "Men";
 	String subCategoriesName = "Suits";
 	int productNumber = 9;
-	int[] selectproductNumber = {9,12,20,22,25};
+	//int[] selectproductNumber = {9,12,20,22,25};
 
 	
 	@BeforeClass
@@ -33,8 +33,7 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 
 	@Test
 	public void Add_MultipleProjectIntoCart() throws InterruptedException {
-		log("=============STARTING TEST->>>>>TEST NAME IS :" + TC002_Add_MultipleProjectIntoCart.class.getName()
-				+ "================");
+		log("=============STARTING TEST->>>>>TEST NAME IS :" + TC002_Add_MultipleProjectIntoCart.class.getName()+ "================");
 		
 		homepage = new HomePage(driver);
 		listingpage = new ListingPage(driver);
@@ -48,7 +47,9 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 		listingpage.scrollDownOnprojectList();
 		Actions act = new Actions(driver);
 		int totalselect = ConstantsVariable.selectproductNumber.length;
-		for(int select=0; select<totalselect;select++){
+		int select=0;
+		while(select<totalselect){
+			System.out.println(select);
 			if (ConstantsVariable.selectproductNumber[select] <= ConstantsVariable.productNumber) {
 
 				listingpage.clickOnAddtoBagWithInLmt(ConstantsVariable.selectproductNumber[select], act);
@@ -57,15 +58,22 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 				listingpage.clickOnAddtoBagAboveLmt(ConstantsVariable.selectproductNumber[select], act);
 				verifySuccessMessageForAddCart(select);
 			}
+			select++;
 		}
 		
 	}
 
-	public void verifySuccessMessageForAddCart(int count) {
-		if((count+1)==1)
-		Assert.assertEquals(listingpage.verifyAddCartSuccessMessage(), "Added product to cart, you got "+(count+1)+" Product in cart");
-		else
+	public void verifySuccessMessageForAddCart(int count) throws InterruptedException {
+		System.out.println("verify Count is :"+count);
+		if((count+1)<=1){
+			System.out.println(count);
+		    Assert.assertEquals(listingpage.verifyAddCartSuccessMessage(), "Added product to cart, you got "+(count+1)+" Product in cart");
+		    Thread.sleep(1000);
+		}
+		else{
 			Assert.assertEquals(listingpage.verifyAddCartSuccessMessage(), "Added product to cart, you got "+(count+1)+" Products in cart");
+		    Thread.sleep(1000);
+		}
 	}
 
 	public void log(String data) {

@@ -19,6 +19,7 @@ public class AddMultipleProjects {
 	HashMap<Integer, String> projectNameandCount;
 	
 	int productNumber=9;
+	int[] selectProjects= {2,4,6,8};
 	
 	@Test
 	public void verfiy_count() throws InterruptedException{
@@ -57,19 +58,23 @@ public class AddMultipleProjects {
 		projectNameandCount = new HashMap<Integer, String>();
 		
 		
-		for(int i=0; i<oldCount; i++){
+		/*for(int i=0; i<oldCount; i++){
 			projectNameandCount.put(i, projectNameList.get(i).getText());
 			System.out.println(projectNameList.get(i).getText());
 		}
-		
-		
-		if(productNumber<=9){
-			
-			clickOnAddtoBagWithInLmt(productNumber, act);
+		*/
+		int count=0;
+		while(count<selectProjects.length){
+			if(selectProjects[count]<=9){
+				
+				clickOnAddtoBagWithInLmt(selectProjects[count], act);
+			}
+			else{
+				clickOnAddtoBagAboveLmt(selectProjects[count],act);
+			}
+			count++;
 		}
-		else{
-			clickOnAddtoBagAboveLmt(productNumber,act);
-		}
+		
 	
 	    
 	  
@@ -83,6 +88,7 @@ public class AddMultipleProjects {
 		
 	}
 	private void clickOnAddtoBagAboveLmt(int productNumber, Actions act) throws InterruptedException {
+		Thread.sleep(3000);
 		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li["+productNumber+"]/a/div[1]/img"))).build().perform();
 		//driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[57]/a/div[1]/img")).click();
 		driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li["+productNumber+"]/div[3]/span[2]/span")).click();
@@ -98,7 +104,7 @@ public class AddMultipleProjects {
 			
 			System.out.println(diff_Size.get(i).getText());
 			if(diff_Size.get(i).getText().equals("40")){
-				Thread.sleep(1000);
+				Thread.sleep(3000);
 				diff_Size.get(i).click();
 				break;
 			}

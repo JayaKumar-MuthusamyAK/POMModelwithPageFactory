@@ -6,6 +6,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.SkipException;
@@ -25,7 +26,7 @@ public class TC003_VerifyLoginWithDifferentRecords extends TestBase {
 	HomePage homepage;
 	String excelFileName ="TestData.xlsx";
 	String excelSheetName = "LoginTestData";
-
+	Actions act = null;
 	@DataProvider(name = "loginData")
 	public String[][] getCellData() {
 

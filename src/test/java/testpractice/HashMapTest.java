@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 public class HashMapTest {
 	
+	
 	public void mapingTest(String values){
 		
 		HashMap<String, Integer> map = new HashMap<String, Integer>();
@@ -21,13 +22,18 @@ public class HashMapTest {
 			System.out.println(map.get("CR")*Integer.parseInt(values.split("CR")[0]));
 		}
 		
+		
 	}
+	
+	
 	public static void main(String[] args) {
 		
 		HashMapTest obj = new HashMapTest();
 		obj.mapingTest("50L");
 		obj.mapingTest("6CR");
 		obj.mapingTest("7K");
+		
+	
 	}
 
 }

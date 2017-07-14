@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeTest;
@@ -17,7 +18,6 @@ public class TC002_VerifyNewUserRegistration extends TestBase {
 	public static final Logger log = Logger.getLogger(TC002_VerifyNewUserRegistration.class.getName());
 	
 	//WebDriver driver;
-	
 	HomePage homepage;
 	@BeforeTest
 	public void setup() throws IOException{
