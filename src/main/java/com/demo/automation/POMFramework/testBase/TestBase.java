@@ -223,7 +223,7 @@ public class TestBase {
 		try{
 			String path = new File(System.getProperty("user.dir"))+"//src//main//java//com//demo//automation//POMFramework//";
 			destFile = new File ((String)path+"_"+simpleformat.format(calendar.getTime())+".png");
-			FileUtils.copyDirectory(scrFile, destFile);
+			FileUtils.copyFile(scrFile, destFile);
 			Reporter.log("<a href='" + destFile.getAbsolutePath() + "'> <img src='" + destFile.getAbsolutePath() + "' height='100' width='100'/> </a>");
 		}
 		catch(IOException e){

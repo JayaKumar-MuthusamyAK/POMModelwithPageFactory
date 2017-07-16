@@ -1,5 +1,7 @@
 package testpractice;
 
+import org.apache.commons.lang3.StringUtils;
+
 public class StringSplit {
 	
 	
@@ -16,6 +18,19 @@ public class StringSplit {
 			System.out.println(selectproductNumber[i]);
 			test(i);
 		}
+		
+		System.out.println("------------------");
+		String name ="loginemailtxtboxerrmsg|loginpasswdtxtboxerrmsg|afterloginusername";
+		if(name.contains("|")){
+			int countnum= StringUtils.countMatches(name, "|");
+			for(int i=0; i<=countnum;i++){
+				System.out.println(name.split("\\|")[i]);
+			}
+		}
+		else{
+			System.out.println("no");
+		}
+		
 		
 	}
 
