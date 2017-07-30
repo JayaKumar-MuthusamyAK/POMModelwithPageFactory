@@ -3,7 +3,7 @@
 <suite name="Shopping page test Cases">
 
 <listeners>
-	<!--<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener> -->
+<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener> 
 	<!--<listener class-name="com.demo.automation.POMFramework.customListners.WebEventListnersClass"></listener> -->
 	<listener
 		class-name="com.demo.automation.POMFramework.customListners.RetryListners"></listener>

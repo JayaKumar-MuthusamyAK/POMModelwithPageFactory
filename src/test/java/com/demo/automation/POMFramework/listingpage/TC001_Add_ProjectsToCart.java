@@ -22,7 +22,8 @@ public class TC001_Add_ProjectsToCart extends TestBase {
 	String categoriesName = "Men";
 	String subCategoriesName = "Suits";
 	String brandName = "Single-Breasted Formal Suit";
-	String size = "XL";
+	//String size = "XL";
+	int size =38;
 	@BeforeClass
 	public void setUp() throws IOException {
 		init();
@@ -33,13 +34,18 @@ public class TC001_Add_ProjectsToCart extends TestBase {
 		log("=============STARTING TEST->>>>>TEST NAME IS :"+TC001_Add_ProjectsToCart.class.getName()+"================");
 		listingpage = new ListingPage(driver);
 		homepage = new HomePage(driver);
+		Actions act = new Actions(driver);
 		// homepage.clickOnMainMenuLink("Men");
 		// homepage.clickOnSubLink("Printed Varsity T-Shirt");
 		
 		homepage.moveMouseMainMenu(categoriesName);
 		homepage.moveMouseSubMenu(subCategoriesName);
 		homepage.clickOnSubLink(subCategoriesName);
-		listingpage.addProjectToBag(brandName, size);
+		
+		
+		//listingpage.addProjectToBag(brandName, size);
+		listingpage.scrollDownOnprojectList();
+		listingpage.addProductgivenNamebased(brandName, size, listingpage.projectCount(),act);
 		log("=============ENDING TEST->>>>>TEST NAME IS :"+TC001_Add_ProjectsToCart.class.getName()+"================");
 	}
 

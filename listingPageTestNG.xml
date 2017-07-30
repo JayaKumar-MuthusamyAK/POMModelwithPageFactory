@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Listing Page Add Cart verification" verbose="1">
 	<listeners>
-		<!--<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener> -->
+		<listener class-name="com.demo.automation.POMFramework.customListners.Listners"></listener>
 		<!--<listener class-name="com.demo.automation.POMFramework.customListners.WebEventListnersClass"></listener> -->
 		<listener
 			class-name="com.demo.automation.POMFramework.customListners.RetryListners"></listener>

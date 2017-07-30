@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Listing Page Add Cart verification]">
+  <listeners>
+    <listener class-name="com.demo.automation.POMFramework.customListners.RetryListners"/>
+  </listeners>
+  <test name="Listing page verification(failed)">
+    <classes>
+      <class name="com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart">
+        <methods>
+          <include name="Add_MultipleProjectIntoCart"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart -->
+      <class name="com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+          <include name="setUp"/>
+          <include name="Add_ProjectsToCart"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart -->
+    </classes>
+  </test> <!-- Listing page verification(failed) -->
+</suite> <!-- Failed suite [Listing Page Add Cart verification] -->

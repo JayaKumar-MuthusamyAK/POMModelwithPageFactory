@@ -20,8 +20,9 @@ public class TC001_Add_ProjectToWishListToPayment extends TestBase {
 	ListingPage listpage;
 	ProjectViewPage projectviewpage;
 	ShoppingPage shoppingpage;
-	String selectProjectName="Printed Lichfield T-shirt";
-	String shirt_Size = "XL";
+	String selectProjectName="Men Thermal Long Johns";
+	String expectedProjectName="Thermal Long Johns";
+	String shirt_Size = "M";
 	String error_Text = "Please select a size";
 	Actions act = null;
 	@BeforeClass
@@ -39,17 +40,17 @@ public class TC001_Add_ProjectToWishListToPayment extends TestBase {
 		shoppingpage = new ShoppingPage(driver);
 		
 		homepage.moveMouseMainMenu("Men");
-		homepage.moveMouseSubMenu("Active T-Shirts");
-		homepage.clickOnSubLink("Active T-Shirts");
+		homepage.moveMouseSubMenu("Thermals");
+		homepage.clickOnSubLink("Thermals");
 		
-		listpage.pagescrollDown();
+		listpage.scrollDownOnprojectList();
 		HashMap<String, Integer> map = listpage.mappingProjectPrice();
 		System.out.println(map.get(selectProjectName));
 		listpage.openGivenProject(selectProjectName);
 		String projectName = projectviewpage.getProjectNameText();
 		String projectPrice = projectviewpage.getPriceOftheProject();
 		
-		Assert.assertTrue(projectName.contains(selectProjectName), "Expected project page only opened");
+		Assert.assertTrue(projectName.contains(expectedProjectName), "Expected project page only opened");
 		System.out.println(map.get(selectProjectName).intValue());
 		System.out.println(projectPrice);
 		Assert.assertTrue(map.get(selectProjectName).intValue()==Integer.parseInt(projectPrice), "Price is Matching");
@@ -57,15 +58,16 @@ public class TC001_Add_ProjectToWishListToPayment extends TestBase {
 		String sizeSelectionerrorMsg= projectviewpage.verifyWithoutSelectSize();
 		Assert.assertEquals(sizeSelectionerrorMsg, error_Text);
 		projectviewpage.clickOnAddButton(shirt_Size);
+		Thread.sleep(2000);
 		int wishlistAddedprojectCount = Integer.parseInt(projectviewpage.verifyBagCount());
 		
 		Assert.assertTrue(wishlistAddedprojectCount==1, "Project is selected. Count is updated in wish List");
 		
 		shoppingpage.clickOnWishListIcon();
 		
-		int left_sidePanelcal= shoppingpage.verify_TotalPrice();
 		
-		Assert.assertTrue(left_sidePanelcal==shoppingpage.get_OrderPrice(), "Calculation is correct");
+		
+		Assert.assertTrue(shoppingpage.get_OrderPrice1()==shoppingpage.getTotal_Price(), "Project Price is Matching with expected result");
 		
 	}
 

@@ -7,6 +7,8 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.SkipException;
@@ -16,6 +18,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import com.demo.automation.POMFramework.excelReader.ExcelReader;
 import com.demo.automation.POMFramework.testBase.TestBase;
 import com.demo.automation.POMFramework.uiActions.HomePage;
 
@@ -27,14 +30,9 @@ public class TC003_VerifyLoginWithDifferentRecords extends TestBase {
 	String excelFileName ="TestData.xlsx";
 	String excelSheetName = "LoginTestData";
 	Actions act = null;
-	@DataProvider(name = "loginData")
-	public String[][] getCellData() {
+	
 
-		return getData(excelFileName, excelSheetName);
-
-	}
-
-	@BeforeClass
+	@BeforeTest
 	public void setUp() throws IOException {
 		init();
 	}
@@ -51,9 +49,18 @@ public class TC003_VerifyLoginWithDifferentRecords extends TestBase {
 		waitForElement(30, homepage.waitForElementPresent());
 		//After element that login page testing start.
 		homepage.loginToAppilcation(email, password);
-	
-		if(homepage.verifyLoginErrorMessage())
+		
+		homepage.waitForTextPresent(driver.findElement(By.xpath("//*[@id='mountRoot']/div/div/div[2]/div/div/p")), "The username or password you entered is incorrect");
+		if(homepage.getFailedMessage().equals("The username or password you entered is incorrect")){
+			
 			Assert.assertEquals(homepage.getFailedMessage(),"The username or password you entered is incorrect");
+		}
+		else if(homepage.errorMessage().equals("Please enter a valid email id")){
+			Assert.assertEquals(homepage.errorMessage(), "Please enter a valid email id");
+		}
+		else if(homepage.errorMessage().equals("Password must be at least 6 characters")){
+			Assert.assertEquals(homepage.errorMessage(), "Password must be at least 6 characters");
+		}
 		else if(homepage.checkLogOutbtn()){
 			Assert.assertEquals(homepage.getSuccessMessage(),email);
 			homepage.clickOnLogOutbtn();
@@ -65,11 +72,14 @@ public class TC003_VerifyLoginWithDifferentRecords extends TestBase {
 		
 	}
 
-	@AfterClass
-	public void endTest() {
-		driver.close();
+	@DataProvider(name = "loginData")
+	public String[][] getCellData() {
+
+		return getData(excelFileName, excelSheetName);
 
 	}
+	
+
 	
 	public void log(String data){
 		

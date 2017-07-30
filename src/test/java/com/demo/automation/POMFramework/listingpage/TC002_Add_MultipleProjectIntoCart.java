@@ -1,6 +1,8 @@
 package com.demo.automation.POMFramework.listingpage;
 
 import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -13,13 +15,14 @@ import com.demo.automation.POMFramework.constants.ConstantsVariable;
 import com.demo.automation.POMFramework.testBase.TestBase;
 import com.demo.automation.POMFramework.uiActions.HomePage;
 import com.demo.automation.POMFramework.uiActions.ListingPage;
+import com.demo.automation.POMFramework.uiActions.ShoppingPage;
 
 public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 
 	
 	ListingPage listingpage;
 	HomePage homepage;
-	
+	ShoppingPage shoppingpage;
 	String categoriesName = "Men";
 	String subCategoriesName = "Suits";
 	int productNumber = 9;
@@ -37,6 +40,7 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 		
 		homepage = new HomePage(driver);
 		listingpage = new ListingPage(driver);
+		shoppingpage = new ShoppingPage(driver);
 		// homepage.clickOnMainMenuLink("Men");
 		// homepage.clickOnSubLink("Printed Varsity T-Shirt");
 
@@ -47,19 +51,39 @@ public class TC002_Add_MultipleProjectIntoCart extends TestBase {
 		listingpage.scrollDownOnprojectList();
 		Actions act = new Actions(driver);
 		int totalselect = ConstantsVariable.selectproductNumber.length;
+		
+		List<String> expectedProjectName= new LinkedList<String>();
+		
 		int select=0;
 		while(select<totalselect){
-			System.out.println(select);
+			System.out.println(ConstantsVariable.selectproductNumber[select]);
 			if (ConstantsVariable.selectproductNumber[select] <= ConstantsVariable.productNumber) {
-
+				expectedProjectName.add(listingpage.stroreProjectName(ConstantsVariable.selectproductNumber[select]));
 				listingpage.clickOnAddtoBagWithInLmt(ConstantsVariable.selectproductNumber[select], act);
 				verifySuccessMessageForAddCart(select);
 			} else {
+				expectedProjectName.add(listingpage.stroreProjectName(ConstantsVariable.selectproductNumber[select]));
 				listingpage.clickOnAddtoBagAboveLmt(ConstantsVariable.selectproductNumber[select], act);
 				verifySuccessMessageForAddCart(select);
 			}
 			select++;
 		}
+		
+		shoppingpage.clickOnWishListIcon();
+		
+		Assert.assertTrue(shoppingpage.verifyMultiProjectAddedCount()==totalselect, "WishList Count is Matching.");
+		
+		for(int shopcount=0; shopcount<shoppingpage.getProjectNameListInShoppingListpage().size();shopcount++){
+			log(shoppingpage.getProjectNameListInShoppingListpage().get(shopcount).getText()+"--"+expectedProjectName.get(shopcount));
+			if(expectedProjectName.contains(shoppingpage.getProjectNameListInShoppingListpage().get(shopcount).getText())){
+				Assert.assertTrue(expectedProjectName.contains(shoppingpage.getProjectNameListInShoppingListpage().get(shopcount).getText()), "Project Name is Matching");
+			}
+			else{
+				System.out.println("Project name is Not Matching");
+			}
+		}
+		
+		Assert.assertTrue(shoppingpage.getTotal_Price()==shoppingpage.get_OrderPrice(), "Price Calculation is Correct");
 		
 	}
 

@@ -20,6 +20,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
@@ -95,6 +96,7 @@ public class TestBase {
 			cap.setCapability("marionette", false);
 			
 			driver = new FirefoxDriver(cap);
+			driver.manage().window().maximize();
 			//driver = new EventFiringWebDriver(dr);
 			//eventWebDriver = new WebEventListnersClass();
 			//driver.register(eventWebDriver);
@@ -106,7 +108,6 @@ public class TestBase {
 					System.getProperty("user.dir") + "//Drivers//chromedriver.exe");
 			// DesiredCapabilities cap = new DesiredCapabilities();
 			// cap.setCapability("marionette", false);
-			
 			driver = new ChromeDriver();
 			
 			

@@ -1,11 +1,1432 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="7" failed="1" ignored="0" total="12" passed="4">
   <reporter-output>
+    <line>
+      <![CDATA[----------------------Starting Verifing the Login page----------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the login label and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter email address and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password  and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the Login button and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]]]>
+    </line>
+    <line>
+      <![CDATA[Verifing the Error message :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]]]>
+    </line>
+    <line>
+      <![CDATA[----------------------Ending the Login page----------------------------]]>
+    </line>
+    <line>
+      <![CDATA[=============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on main menu fields :Men]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on sub menu fields :Suits]]>
+    </line>
+    <line>
+      <![CDATA[Clicking the Sub menu option. The option name is :Suits]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :96]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :144]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :192]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :240]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :288]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :336]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :361]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :361]]>
+    </line>
+    <line>
+      <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+    </line>
+    <line>
+      <![CDATA[Click on the given project Add to Bag button]]>
+    </line>
+    <line>
+      <![CDATA[Given Project availabel size is :5]]>
+    </line>
+    <line>
+      <![CDATA[Select the given project size.]]>
+    </line>
+    <line>
+      <![CDATA[=============ENDING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================]]>
+    </line>
+    <line>
+      <![CDATA[=============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart================]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on main menu fields :Men]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on sub menu fields :Suits]]>
+    </line>
+    <line>
+      <![CDATA[Clicking the Sub menu option. The option name is :Suits]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :96]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :96]]>
+    </line>
+    <line>
+      <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+    </line>
+    <line>
+      <![CDATA[Click on the given project Add to Bag button]]>
+    </line>
+    <line>
+      <![CDATA[Given Project availabel size is :5]]>
+    </line>
+    <line>
+      <![CDATA[Select the given project size.]]>
+    </line>
+    <line>
+      <![CDATA[Added cart Success Message is : Added product to cart, you got 1 Product in cart]]>
+    </line>
+    <line>
+      <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+    </line>
+    <line>
+      <![CDATA[Click on the given project Add to Bag button]]>
+    </line>
+    <line>
+      <![CDATA[Given Project availabel size is :4]]>
+    </line>
+    <line>
+      <![CDATA[Select the given project size.]]>
+    </line>
+    <line>
+      <![CDATA[Added cart Success Message is : Added product to cart, you got 2 Products in cart]]>
+    </line>
+    <line>
+      <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+    </line>
+    <line>
+      <![CDATA[Click on the given project Add to Bag button]]>
+    </line>
+    <line>
+      <![CDATA[Given Project availabel size is :4]]>
+    </line>
+    <line>
+      <![CDATA[Select the given project size.]]>
+    </line>
+    <line>
+      <![CDATA[Added cart Success Message is : Added product to cart, you got 3 Products in cart]]>
+    </line>
+    <line>
+      <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+    </line>
+    <line>
+      <![CDATA[Click on the given project Add to Bag button]]>
+    </line>
+    <line>
+      <![CDATA[Given Project availabel size is :6]]>
+    </line>
+    <line>
+      <![CDATA[Select the given project size.]]>
+    </line>
+    <line>
+      <![CDATA[Added cart Success Message is : Added product to cart, you got 4 Products in cart]]>
+    </line>
+    <line>
+      <![CDATA[Raymond Olive Green Contemporary Fit Single-Breasted Formal Suit--Single-Breasted Formal Suit]]>
+    </line>
+    <line>
+      <![CDATA[Blackberrys Charcoal Grey Single-Breasted Formal Suit--Single-Breasted Formal Suit]]>
+    </line>
+    <line>
+      <![CDATA[Raymond Navy Contemporary Fit Single-Breasted Formal Suit--Blackberrys Charcoal Grey Single-Breasted Formal Suit]]>
+    </line>
+    <line>
+      <![CDATA[Park Avenue Black Super Slim Fit Single-Breasted Formal Suit--Men Formal Suit]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on main menu fields :Men]]>
+    </line>
+    <line>
+      <![CDATA[Moving cursor on sub menu fields :Thermals]]>
+    </line>
+    <line>
+      <![CDATA[Clicking the Sub menu option. The option name is :Thermals]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :20]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling the page Now project count is :20]]>
+    </line>
+    <line>
+      <![CDATA[Thermal Henley T-shirt 300-526]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal T-shirt-314]]>
+    </line>
+    <line>
+      <![CDATA[Thermal T-shirt-1499]]>
+    </line>
+    <line>
+      <![CDATA[Thermal Henley T-shirt 300-526]]>
+    </line>
+    <line>
+      <![CDATA[Thermal Henley T-shirt 300-526]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Bottoms 300-526]]>
+    </line>
+    <line>
+      <![CDATA[Thermal T-shirt-1699]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Bottoms-1189]]>
+    </line>
+    <line>
+      <![CDATA[Thermal Bottoms BW4-272]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Long Johns-472]]>
+    </line>
+    <line>
+      <![CDATA[Thermal T-shirt-1999]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Bottoms-1749]]>
+    </line>
+    <line>
+      <![CDATA[Cotton Rich Thermal T-shirt-1699]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Bottoms-2499]]>
+    </line>
+    <line>
+      <![CDATA[Jockey THERMALS Men White Thermal T-shirt 2400-489]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal Bottoms 300-526]]>
+    </line>
+    <line>
+      <![CDATA[Men Thermal T-shirt-262]]>
+    </line>
+    <line>
+      <![CDATA[Duke Men Grey Thermal Bottom-228]]>
+    </line>
+    <line>
+      <![CDATA[Thermal T-shirt-2499]]>
+    </line>
+    <line>
+      <![CDATA[Ribbed Thermal T-shirt-1999]]>
+    </line>
+    <line>
+      <![CDATA[Moveing the cursor to given project.]]>
+    </line>
+    <line>
+      <![CDATA[Given project name page is opening]]>
+    </line>
+    <line>
+      <![CDATA[Getting the project name in project view page. project name object is :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]]]>
+    </line>
+    <line>
+      <![CDATA[Getting the price of the project in project view page. Price object is :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]]]>
+    </line>
+    <line>
+      <![CDATA[Click on the add button with out select the size of the product Add button Object is  :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on the add button before select the size of the product :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify the wishlist project count. And Wishlist Object is  :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]]]>
+    </line>
   </reporter-output>
-  <suite name="com.demo.automation.POMFramework.AppTest" duration-ms="5" started-at="2017-07-04T04:49:30Z" finished-at="2017-07-04T04:49:31Z">
+  <suite name="Regression Test" duration-ms="42971" started-at="2017-07-30T07:25:16Z" finished-at="2017-07-30T07:25:59Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="5" started-at="2017-07-04T04:49:30Z" finished-at="2017-07-04T04:49:31Z">
-    </test> <!-- Command line test -->
-  </suite> <!-- com.demo.automation.POMFramework.AppTest -->
+    <test name="Sign up Test" duration-ms="42971" started-at="2017-07-30T07:25:16Z" finished-at="2017-07-30T07:25:59Z">
+      <class name="com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords">
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay11@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.2345678E7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="1" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay14@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12678.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay13@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1378.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay15@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.2345678E7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay16@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.2345678E7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="beforemethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="SKIP" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="endTesting" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:55:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+        <test-method status="SKIP" signature="VerifyLoginWithDifferentRecords(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="VerifyLoginWithDifferentRecords" duration-ms="0" started-at="2017-07-30T12:55:59Z" data-provider="loginData" finished-at="2017-07-30T12:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakay34@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wqerewr]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginWithDifferentRecords -->
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      <class name="com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233]" name="setup" is-config="true" duration-ms="11259" started-at="2017-07-30T12:55:35Z" finished-at="2017-07-30T12:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233]" name="beforemethod" is-config="true" duration-ms="6" started-at="2017-07-30T12:55:47Z" finished-at="2017-07-30T12:55:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials.verifyLoginwithInvalidCredentials() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="verifyLoginwithInvalidCredentials()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233]" name="verifyLoginwithInvalidCredentials" duration-ms="10169" started-at="2017-07-30T12:55:47Z" finished-at="2017-07-30T12:55:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------Starting Verifing the Login page----------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the login label and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[2]/a[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter email address and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[1]/input]]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password  and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[1]/div[2]/input]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the Login button and Object is :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div/form/fieldset[2]/button]]]>
+            </line>
+            <line>
+              <![CDATA[Verifing the Error message :[[ChromeDriver: chrome on XP (e38dc864f0f3e10eb1e456fc00b289ee)] -> xpath: //*[@id='mountRoot']/div/div/div[2]/div/div/p]]]>
+            </line>
+            <line>
+              <![CDATA[----------------------Ending the Login page----------------------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithInvalidCredentials -->
+        <test-method status="PASS" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233]" name="endTesting" is-config="true" duration-ms="1166" started-at="2017-07-30T12:55:57Z" finished-at="2017-07-30T12:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:57Z" finished-at="2017-07-30T12:55:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginwithInvalidCredentials status=SUCCESS method=TC001_VerifyLoginwithInvalidCredentials.verifyLoginwithInvalidCredentials()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials@376b4233] output=----------------------Starting Verifing the Login page----------------------------]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials -->
+      <class name="com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="setup" is-config="true" duration-ms="8467" started-at="2017-07-30T12:55:16Z" finished-at="2017-07-30T12:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords@4fcd19b3]" name="setUp" is-config="true" duration-ms="11209" started-at="2017-07-30T12:55:24Z" finished-at="2017-07-30T12:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-07-30T12:55:58Z" finished-at="2017-07-30T12:55:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration.verifyNewUserRegistration()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="FAIL" signature="verifyNewUserRegistration()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="verifyNewUserRegistration" duration-ms="40" started-at="2017-07-30T12:55:58Z" finished-at="2017-07-30T12:55:58Z">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy9.getCoordinates(Unknown Source)
+	at org.openqa.selenium.interactions.internal.MouseAction.getActionLocation(MouseAction.java:51)
+	at org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)
+	at org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:34)
+	at com.demo.automation.POMFramework.uiActions.HomePage.moveCursor(HomePage.java:201)
+	at com.demo.automation.POMFramework.uiActions.HomePage.new_userLogin(HomePage.java:138)
+	at com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration.verifyNewUserRegistration(TC002_VerifyNewUserRegistration.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserRegistration -->
+        <test-method status="FAIL" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:58Z" finished-at="2017-07-30T12:55:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNewUserRegistration status=FAILURE method=TC002_VerifyNewUserRegistration.verifyNewUserRegistration()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'ADMIN-PC', ip: '169.254.230.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:130)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:658)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:340)
+	at com.demo.automation.POMFramework.testBase.TestBase.catureScreen(TestBase.java:222)
+	at com.demo.automation.POMFramework.testBase.TestBase.getStatus(TestBase.java:179)
+	at com.demo.automation.POMFramework.testBase.TestBase.aftermethod(TestBase.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:712)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="endSetUp()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="endSetUp" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:58Z" finished-at="2017-07-30T12:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSetUp -->
+        <test-method status="SKIP" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration@5204062d]" name="endTesting" is-config="true" duration-ms="0" started-at="2017-07-30T12:55:58Z" finished-at="2017-07-30T12:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration -->
+    </test> <!-- Sign up Test -->
+  </suite> <!-- Regression Test -->
+  <suite name="Listing Page Add Cart verification" duration-ms="167772" started-at="2017-07-30T07:25:59Z" finished-at="2017-07-30T07:28:46Z">
+    <groups>
+    </groups>
+    <test name="Listing page verification" duration-ms="167772" started-at="2017-07-30T07:25:59Z" finished-at="2017-07-30T07:28:46Z">
+      <class name="com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe]" name="setUp" is-config="true" duration-ms="14865" started-at="2017-07-30T12:57:34Z" finished-at="2017-07-30T12:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-07-30T12:57:48Z" finished-at="2017-07-30T12:57:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart.Add_MultipleProjectIntoCart() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Add_MultipleProjectIntoCart()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe]" name="Add_MultipleProjectIntoCart" duration-ms="56947" started-at="2017-07-30T12:57:48Z" finished-at="2017-07-30T12:58:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart================]]>
+            </line>
+            <line>
+              <![CDATA[Moving cursor on main menu fields :Men]]>
+            </line>
+            <line>
+              <![CDATA[Moving cursor on sub menu fields :Suits]]>
+            </line>
+            <line>
+              <![CDATA[Clicking the Sub menu option. The option name is :Suits]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :96]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :96]]>
+            </line>
+            <line>
+              <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+            </line>
+            <line>
+              <![CDATA[Click on the given project Add to Bag button]]>
+            </line>
+            <line>
+              <![CDATA[Given Project availabel size is :5]]>
+            </line>
+            <line>
+              <![CDATA[Select the given project size.]]>
+            </line>
+            <line>
+              <![CDATA[Added cart Success Message is : Added product to cart, you got 1 Product in cart]]>
+            </line>
+            <line>
+              <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+            </line>
+            <line>
+              <![CDATA[Click on the given project Add to Bag button]]>
+            </line>
+            <line>
+              <![CDATA[Given Project availabel size is :4]]>
+            </line>
+            <line>
+              <![CDATA[Select the given project size.]]>
+            </line>
+            <line>
+              <![CDATA[Added cart Success Message is : Added product to cart, you got 2 Products in cart]]>
+            </line>
+            <line>
+              <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+            </line>
+            <line>
+              <![CDATA[Click on the given project Add to Bag button]]>
+            </line>
+            <line>
+              <![CDATA[Given Project availabel size is :4]]>
+            </line>
+            <line>
+              <![CDATA[Select the given project size.]]>
+            </line>
+            <line>
+              <![CDATA[Added cart Success Message is : Added product to cart, you got 3 Products in cart]]>
+            </line>
+            <line>
+              <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+            </line>
+            <line>
+              <![CDATA[Click on the given project Add to Bag button]]>
+            </line>
+            <line>
+              <![CDATA[Given Project availabel size is :6]]>
+            </line>
+            <line>
+              <![CDATA[Select the given project size.]]>
+            </line>
+            <line>
+              <![CDATA[Added cart Success Message is : Added product to cart, you got 4 Products in cart]]>
+            </line>
+            <line>
+              <![CDATA[Raymond Olive Green Contemporary Fit Single-Breasted Formal Suit--Single-Breasted Formal Suit]]>
+            </line>
+            <line>
+              <![CDATA[Blackberrys Charcoal Grey Single-Breasted Formal Suit--Single-Breasted Formal Suit]]>
+            </line>
+            <line>
+              <![CDATA[Raymond Navy Contemporary Fit Single-Breasted Formal Suit--Blackberrys Charcoal Grey Single-Breasted Formal Suit]]>
+            </line>
+            <line>
+              <![CDATA[Park Avenue Black Super Slim Fit Single-Breasted Formal Suit--Men Formal Suit]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add_MultipleProjectIntoCart -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:58:45Z" finished-at="2017-07-30T12:58:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_MultipleProjectIntoCart status=SUCCESS method=TC002_Add_MultipleProjectIntoCart.Add_MultipleProjectIntoCart()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe] output==============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart================]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart@7e9a5fbe]" name="endTesting" is-config="true" duration-ms="1086" started-at="2017-07-30T12:58:45Z" finished-at="2017-07-30T12:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+      </class> <!-- com.demo.automation.POMFramework.listingpage.TC002_Add_MultipleProjectIntoCart -->
+      <class name="com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d]" name="setUp" is-config="true" duration-ms="10836" started-at="2017-07-30T12:55:59Z" finished-at="2017-07-30T12:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-07-30T12:56:10Z" finished-at="2017-07-30T12:56:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart.Add_ProjectsToCart() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Add_ProjectsToCart()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d]" name="Add_ProjectsToCart" duration-ms="82847" started-at="2017-07-30T12:56:10Z" finished-at="2017-07-30T12:57:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================]]>
+            </line>
+            <line>
+              <![CDATA[Moving cursor on main menu fields :Men]]>
+            </line>
+            <line>
+              <![CDATA[Moving cursor on sub menu fields :Suits]]>
+            </line>
+            <line>
+              <![CDATA[Clicking the Sub menu option. The option name is :Suits]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :96]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :144]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :192]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :240]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :288]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :336]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :361]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :361]]>
+            </line>
+            <line>
+              <![CDATA[Cursor is moving on the given project name. Calling the method is Click on the within the limit]]>
+            </line>
+            <line>
+              <![CDATA[Click on the given project Add to Bag button]]>
+            </line>
+            <line>
+              <![CDATA[Given Project availabel size is :5]]>
+            </line>
+            <line>
+              <![CDATA[Select the given project size.]]>
+            </line>
+            <line>
+              <![CDATA[=============ENDING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add_ProjectsToCart -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T12:57:32Z" finished-at="2017-07-30T12:57:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_ProjectsToCart status=SUCCESS method=TC001_Add_ProjectsToCart.Add_ProjectsToCart()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d] output==============STARTING TEST->>>>>TEST NAME IS :com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart================]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart@16022d9d]" name="endTesting" is-config="true" duration-ms="1184" started-at="2017-07-30T12:57:32Z" finished-at="2017-07-30T12:57:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+      </class> <!-- com.demo.automation.POMFramework.listingpage.TC001_Add_ProjectsToCart -->
+    </test> <!-- Listing page verification -->
+  </suite> <!-- Listing Page Add Cart verification -->
+  <suite name="Shopping page test Cases" duration-ms="195864" started-at="2017-07-30T07:28:46Z" finished-at="2017-07-30T07:32:02Z">
+    <groups>
+    </groups>
+    <test name="Verify the Shopping page project name and price" duration-ms="195864" started-at="2017-07-30T07:28:46Z" finished-at="2017-07-30T07:32:02Z">
+      <class name="com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf]" name="setUp" is-config="true" duration-ms="18103" started-at="2017-07-30T12:58:46Z" finished-at="2017-07-30T12:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf]" name="beforemethod" is-config="true" duration-ms="1" started-at="2017-07-30T12:59:05Z" finished-at="2017-07-30T12:59:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment.Add_ProjectToWishListToPayment() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Add_ProjectToWishListToPayment()[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf]" name="Add_ProjectToWishListToPayment" duration-ms="176923" started-at="2017-07-30T12:59:05Z" finished-at="2017-07-30T13:02:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Moving cursor on main menu fields :Men]]>
+            </line>
+            <line>
+              <![CDATA[Moving cursor on sub menu fields :Thermals]]>
+            </line>
+            <line>
+              <![CDATA[Clicking the Sub menu option. The option name is :Thermals]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :20]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling the page Now project count is :20]]>
+            </line>
+            <line>
+              <![CDATA[Thermal Henley T-shirt 300-526]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal T-shirt-314]]>
+            </line>
+            <line>
+              <![CDATA[Thermal T-shirt-1499]]>
+            </line>
+            <line>
+              <![CDATA[Thermal Henley T-shirt 300-526]]>
+            </line>
+            <line>
+              <![CDATA[Thermal Henley T-shirt 300-526]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Bottoms 300-526]]>
+            </line>
+            <line>
+              <![CDATA[Thermal T-shirt-1699]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Bottoms-1189]]>
+            </line>
+            <line>
+              <![CDATA[Thermal Bottoms BW4-272]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Long Johns-472]]>
+            </line>
+            <line>
+              <![CDATA[Thermal T-shirt-1999]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Bottoms-1749]]>
+            </line>
+            <line>
+              <![CDATA[Cotton Rich Thermal T-shirt-1699]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Bottoms-2499]]>
+            </line>
+            <line>
+              <![CDATA[Jockey THERMALS Men White Thermal T-shirt 2400-489]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal Bottoms 300-526]]>
+            </line>
+            <line>
+              <![CDATA[Men Thermal T-shirt-262]]>
+            </line>
+            <line>
+              <![CDATA[Duke Men Grey Thermal Bottom-228]]>
+            </line>
+            <line>
+              <![CDATA[Thermal T-shirt-2499]]>
+            </line>
+            <line>
+              <![CDATA[Ribbed Thermal T-shirt-1999]]>
+            </line>
+            <line>
+              <![CDATA[Moveing the cursor to given project.]]>
+            </line>
+            <line>
+              <![CDATA[Given project name page is opening]]>
+            </line>
+            <line>
+              <![CDATA[Getting the project name in project view page. project name object is :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/h1]]]>
+            </line>
+            <line>
+              <![CDATA[Getting the price of the project in project view page. Price object is :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[1]/p[2]/strong]]]>
+            </line>
+            <line>
+              <![CDATA[Click on the add button with out select the size of the product Add button Object is  :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on the add button before select the size of the product :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='mountRoot']/div/div/main/div[2]/div[2]/div[4]/button[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify the wishlist project count. And Wishlist Object is  :[[ChromeDriver: chrome on XP (d23931b3ffe0ebb00a96513bde388bc6)] -> xpath: //*[@id='desktop-header-cnt']/div/div[2]/a/span[2]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add_ProjectToWishListToPayment -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-07-30T13:02:01Z" finished-at="2017-07-30T13:02:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_ProjectToWishListToPayment status=SUCCESS method=TC001_Add_ProjectToWishListToPayment.Add_ProjectToWishListToPayment()[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf] output=Moving cursor on main menu fields :Men]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endTesting()[pri:0, instance:com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment@134593bf]" name="endTesting" is-config="true" duration-ms="837" started-at="2017-07-30T13:02:01Z" finished-at="2017-07-30T13:02:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTesting -->
+      </class> <!-- com.demo.automation.POMFramework.productpage.TC001_Add_ProjectToWishListToPayment -->
+    </test> <!-- Verify the Shopping page project name and price -->
+  </suite> <!-- Shopping page test Cases -->
+  <suite name="Test Suite for Myntra Website" duration-ms="0" started-at="2017-07-30T07:32:03Z" finished-at="2017-07-30T07:32:03Z">
+    <groups>
+    </groups>
+  </suite> <!-- Test Suite for Myntra Website -->
 </testng-results>

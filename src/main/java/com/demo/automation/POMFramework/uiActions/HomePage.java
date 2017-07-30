@@ -10,6 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 
 import com.demo.automation.POMFramework.testBase.TestBase;
@@ -37,6 +39,9 @@ public class HomePage extends TestBase {
 
 	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div[2]/div/div/p")
 	WebElement loginFailMessage;
+	
+	@FindBy(xpath = "//*[@id='mountRoot']/div/div/div[2]/div/div/p")
+	List<WebElement> verfiyloginFailMessage;
 
 	@FindBy(xpath = "//*[@id='desktop-header-cnt']/div/div[2]/div/div[2]/div[2]/div[1]/a/div[2]")
 	WebElement loginSuccessMEssage;
@@ -76,7 +81,16 @@ public class HomePage extends TestBase {
 	
 	@FindBy(xpath="//*[@id='mountRoot']/div/div/div[2]/div/div/p")
 	List<WebElement> useralreadyExist;
+	
+	@FindBy(xpath="//*[@id='mountRoot']/div/div/div[2]/div/div/p")
+	WebElement useralreadyExist1;
 
+	@FindBy(xpath="//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div/div/p")
+	List<WebElement> signuperrorMessagetxts;
+	
+	@FindBy(xpath="//*[@id='mountRoot']/div/div/div/form/fieldset[1]/fieldset/div/p")
+	WebElement signuperrorGendertxts;
+	//*[@id='mountRoot']/div/div/div/form/fieldset[1]/div/div/p
 
 	public HomePage(WebDriver driver ) {
 		this.driver = driver;
@@ -87,6 +101,7 @@ public class HomePage extends TestBase {
 
 	public void loginToAppilcation(String email, String pwd) {
 
+		
 		moveCursor();
 		loginLbl.click();
 		log("Clicked on the login label and Object is :" + loginLbl.toString());
@@ -104,6 +119,12 @@ public class HomePage extends TestBase {
 		log("Verifing the Error message :" + loginFailMessage.toString());
 		// System.out.println(authonticationFailMessage.getText());
 		return loginFailMessage.getText();
+	}
+	
+	public void waitForTextPresent(WebElement ele, String txt){
+		WebDriverWait wait = new WebDriverWait(driver, 30);
+		wait.until(ExpectedConditions.textToBePresentInElement(ele, txt));
+		
 	}
 
 	public String getSuccessMessage() {
@@ -171,7 +192,8 @@ public class HomePage extends TestBase {
 
 	public boolean verifyLoginErrorMessage()
 	{
-		return loginFailMessage.isDisplayed();
+		System.out.println("1111111");
+		return verfiyloginFailMessage.size()!=0;
 	}
 	public void moveCursor() {
 
@@ -200,10 +222,42 @@ public class HomePage extends TestBase {
 	   Actions act = new Actions(driver);
 		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktop-header-cnt']/div/nav/div/div/div/div/div/ul/li/a[contains(text(),'"+menuname+"')]"))).build().perform();
 	}
+   
+   public void waitForElementPresent1(WebElement element){
+	    WebDriverWait wait = new WebDriverWait(driver, 30);
+		wait.until(ExpectedConditions.textToBePresentInElement(element, "The email you entered already exists"));
+   }
+   
+   public WebElement getWebElement(WebElement element){
+	
+	   return element;
+	   
+   }
 	public void log(String data) {
 
 		log.info(data);
 		Reporter.log(data);
+	}
+	
+	public String errorMessage(){
+		
+		for(int i=0; i<signuperrorMessagetxts.size();i++){
+			if(signuperrorMessagetxts.get(i).getText().equals("Please enter a valid email id")){
+				return signuperrorMessagetxts.get(i).getText();
+			}
+			else if(signuperrorMessagetxts.get(i).getText().equals("Password must be at least 6 characters")){
+				return signuperrorMessagetxts.get(i).getText();
+			}
+			else if(signuperrorMessagetxts.get(i).getText().equals("Please enter a valid mobile number (10 digits)")){
+				return signuperrorMessagetxts.get(i).getText();
+			}
+			
+		}
+		
+		if(signuperrorGendertxts.getText().equals("Please select your gender")){
+			return signuperrorGendertxts.getText();
+		}
+		return "FAIL";
 	}
 	
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Test]">
+  <listeners>
+    <listener class-name="com.demo.automation.POMFramework.customListners.RetryListners"/>
+  </listeners>
+  <test name="Sign up Test(failed)">
+    <classes>
+      <class name="com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration">
+        <methods>
+          <include name="setup"/>
+          <include name="aftermethod"/>
+          <include name="beforemethod"/>
+          <include name="verifyNewUserRegistration"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC002_VerifyNewUserRegistration -->
+      <class name="com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords">
+        <methods>
+          <include name="VerifyLoginWithDifferentRecords" invocation-numbers="0 1 2 3 4 5 6"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC003_VerifyLoginWithDifferentRecords -->
+      <class name="com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="setup"/>
+          <include name="beforemethod"/>
+          <include name="endTesting"/>
+        </methods>
+      </class> <!-- com.demo.automation.POMFramework.homepage.TC001_VerifyLoginwithInvalidCredentials -->
+    </classes>
+  </test> <!-- Sign up Test(failed) -->
+</suite> <!-- Failed suite [Regression Test] -->

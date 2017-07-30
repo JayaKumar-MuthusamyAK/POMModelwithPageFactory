@@ -22,7 +22,7 @@ public class ListingPage extends TestBase {
 
 	public static final Logger log = Logger.getLogger(ListingPage.class.getName());
 	WebDriver driver;
-	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[1]/section/div[1]/div[1]/span")
+	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[1]/section/div[1]/div[1]/span")   //span[@class='horizontal-filters-sub']
 	WebElement projectTotalCount;
 
 	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/h2")
@@ -31,7 +31,7 @@ public class ListingPage extends TestBase {
 	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/ul/li/a/div/div[2]/span[1]")
 	List<WebElement> projectPrice;
 
-	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/div[2]/div")
+	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/div[2]/div")   
 	List<WebElement> verifyShowMoreBtn;
 
 	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/div[2]/div")
@@ -45,10 +45,10 @@ public class ListingPage extends TestBase {
 
 	@FindBy(xpath = "//*[@id='desktopSearchResults']/div[2]/section/ul/li/div[2]/div[2]/button")
 	List<WebElement> chooseSize;
-
+	
 	@FindBy(xpath = "//*[@id='desktop-headerMount']/div/div[2]/div")
 	WebElement addCartSuccessMessage;
-
+	
 	// Add button //span[@class='product-actionsButton product-addToBag']/span
 
 	public ListingPage(WebDriver driver) {
@@ -159,16 +159,27 @@ public class ListingPage extends TestBase {
 
 	public void openGivenProject(String selectProjectName) {
 
+		log("Moveing the cursor to given project.");
+		Actions act = new Actions(driver);
+		
 		log("Given project name page is opening");
-		driver.findElement(By.xpath("//img[@class='product-thumb'][contains(@alt,'" + selectProjectName + "')]"))
-				.click();
+		//div[@class='product-productMetaInfo']/h2
+		List<WebElement> projects = driver.findElements(By.xpath("//div[@class='product-productMetaInfo']/h2"));
+		for(int i=0;i<projects.size();i++){
+			if(projects.get(i).getText().equals(selectProjectName)){
+				act.moveToElement(driver.findElement(By.xpath("(//img[@class='product-thumb'])["+(i+1)+"]"))).build().perform();
+				driver.findElement(By.xpath("(//img[@class='product-thumb'])["+(i+1)+"]")).click();
+				break;
+			}
+		}
+		//driver.findElement(By.xpath("//div[@class='product-productMetaInfo']/*[contains(text(),'"+selectProjectName+"')]")).click();
 	}
 
 	public void pagescrollDown() throws InterruptedException {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 		Thread.sleep(1000);
-		js.executeScript("scroll(250, 0);");
+		js.executeScript("window.scrollBy(0,-50)","");
 	}
 
 	public void pagescrollUptoElement(WebElement element) {
@@ -179,9 +190,7 @@ public class ListingPage extends TestBase {
 	public void clickOnAddtoBagWithInLmt(int productNumber, Actions act) throws InterruptedException {
 		log("Cursor is moving on the given project name. Calling the method is Click on the within the limit");
 		Thread.sleep(3000);
-		act.moveToElement(driver.findElement(
-				By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + productNumber + "]/a/img"))).build()
-				.perform();
+		act.moveToElement(driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + productNumber + "]/a/img"))).build().perform();
 		// driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[57]/a/div[1]/img")).click();
 		log("Click on the given project Add to Bag button");
 		driver.findElement(By.xpath(
@@ -225,7 +234,7 @@ public class ListingPage extends TestBase {
 	public void selectSizeOftheproduct(int projectNo) throws InterruptedException {
 		List<WebElement> diff_Size = driver.findElements(By
 				.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + projectNo + "]/div[2]/div[2]/button"));
-		System.out.println(diff_Size.size());
+		//System.out.println(diff_Size.size());
 		log("Given Project availabel size is :" + diff_Size.size());
 		for (int i = 0; i < diff_Size.size(); i++) {
 
@@ -249,6 +258,64 @@ public class ListingPage extends TestBase {
 		log("Added cart Success Message is : " + addCartSuccessMessage.getText());
 		return addCartSuccessMessage.getText();
 
+	}
+	
+	public String stroreProjectName(int selectProject){
+		
+		return driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li["+selectProject+"]/a/div/h2")).getText();
+	}
+	
+	public void addProductgivenNamebased(String projectName, int Size, int total,Actions act) throws InterruptedException{
+		
+		for(int i=0; i<total;i++){
+			String product = driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li["+(i+1)+"]/a/div/h2")).getText();
+			System.out.println(product);
+			if(product.equals(projectName)){
+				
+				log("Cursor is moving on the given project name. Calling the method is Click on the within the limit");
+				Thread.sleep(3000);
+				act.moveToElement(driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + (i+1) + "]"))).build().perform();
+				// driver.findElement(By.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[57]/a/div[1]/img")).click();
+				log("Click on the given project Add to Bag button");
+				driver.findElement(By.xpath(
+						"//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + (i+1) + "]/div[3]/span[2]/span"))
+						.click();
+				selectSizeOftheproduct(i+1,Size);
+				break;
+			}
+		}
+	}
+	
+	public void selectSizeOftheproduct(int j, int size) throws InterruptedException {
+		List<WebElement> diff_Size = driver.findElements(By
+				.xpath("//*[@id='desktopSearchResults']/div[2]/section/ul/li[" + j + "]/div[2]/div[2]/button"));
+		//System.out.println(diff_Size.size());
+		log("Given Project availabel size is :" + diff_Size.size());
+		for (int i = 0; i < diff_Size.size(); i++) {
+
+			System.out.println(diff_Size.get(i).getText());
+			if (Integer.parseInt(diff_Size.get(i).getText())==size) {
+				WebDriverWait wait = new WebDriverWait(driver, 20);
+				wait.until(ExpectedConditions.visibilityOf(diff_Size.get(i)));
+				Thread.sleep(3000);
+				log("Select the given project size.");
+				diff_Size.get(i).click();
+				// verifyAddCartSuccessMessage();
+				break;
+			}
+		}
+		
+	}
+
+	public void selectSizeOftheproduct(String size) {
+		
+		
+		
+	}
+
+	public int projectCount(){
+		return Integer.parseInt(projectTotalCount.getText().replaceAll("items", "").replaceAll("-", "").split("Rs. ")[0].trim());
+		
 	}
 
 	public void log(String data) {
